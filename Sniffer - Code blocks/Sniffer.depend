@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1427383661 source:c:\sniffer\main.c
+	<pcap.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1254849604 c:\sniffer\include\\pcap.h
+	<pcap/pcap.h>
+
+1277430264 c:\sniffer\include\\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254849604 c:\sniffer\include\\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254849604 c:\sniffer\include\\bittypes.h
+
+1254849598 c:\sniffer\include\\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254849604 c:\sniffer\include\\pcap\bpf.h
+
+1155115018 c:\sniffer\include\\win32-extensions.h
+
+1190863936 c:\sniffer\include\\remote-ext.h
+
+1428324827 source:c:\users\qbsuran alang\desktop\sniffer - code blocks\main.c
+	<pcap.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1254849604 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\pcap.h
+	<pcap/pcap.h>
+
+1277430264 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\pcap\pcap.h
+	<pcap-stdinc.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/time.h>
+	<pcap/bpf.h>
+	<stdio.h>
+	<Win32-Extensions.h>
+	<remote-ext.h>
+
+1254849604 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\pcap-stdinc.h
+	<winsock2.h>
+	<fcntl.h>
+	"bittypes.h"
+	<time.h>
+	<io.h>
+	"IP6_misc.h"
+	<stdint.h>
+
+1254849604 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\bittypes.h
+
+1254849598 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\ip6_misc.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1254849604 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\pcap\bpf.h
+
+1155115018 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\win32-extensions.h
+
+1190863936 c:\users\qbsuran alang\desktop\sniffer - code blocks\include\\remote-ext.h
+

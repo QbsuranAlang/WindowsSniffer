@@ -1,0 +1,3174 @@
+
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10896
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 62859
+ |-Destination Port : 53
+ |-UDP Length : 45
+ |-UDP Checksum : 33785
+
+IP Header
+ 45 00 00 41 2a 90 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ f5 8b 00 35 00 2d 83 f9                                  ...5.-.. 
+
+Data Payload
+ e2 87 01 00 00 01 00 00 00 00 00 00 08 63 6c 69          .............cli 
+ 65 6e 74 73 35 06 67 6f 6f 67 6c 65 03 63 6f 6d          ents5.google.com 
+ 00 00 01 00 01                                           ..... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 62 Bytes(Size of Packet)
+ |-Identification : 10897
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 61509
+ |-Destination Port : 53
+ |-UDP Length : 42
+ |-UDP Checksum : 33782
+
+IP Header
+ 45 00 00 3e 2a 91 00 00 80 11 00 00 c0 a8 01 69          E..>*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ f0 45 00 35 00 2a 83 f6                                  .E.5.*.. 
+
+Data Payload
+ 33 ca 01 00 00 01 00 00 00 00 00 00 02 69 64 06          3............id. 
+ 67 6f 6f 67 6c 65 03 63 6f 6d 02 74 77 00 00 01          google.com.tw... 
+ 00 01                                                    .. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 61 Bytes(Size of Packet)
+ |-Identification : 10898
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 61587
+ |-Destination Port : 53
+ |-UDP Length : 41
+ |-UDP Checksum : 33781
+
+IP Header
+ 45 00 00 3d 2a 92 00 00 80 11 00 00 c0 a8 01 69          E..=*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ f0 93 00 35 00 29 83 f5                                  ...5.).. 
+
+Data Payload
+ 57 19 01 00 00 01 00 00 00 00 00 00 04 61 70 69          W............api 
+ 73 06 67 6f 6f 67 6c 65 03 63 6f 6d 00 00 01 00          s.google.com.... 
+ 01                                                       . 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 63 Bytes(Size of Packet)
+ |-Identification : 10899
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 52461
+ |-Destination Port : 53
+ |-UDP Length : 43
+ |-UDP Checksum : 33783
+
+IP Header
+ 45 00 00 3f 2a 93 00 00 80 11 00 00 c0 a8 01 69          E..?*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ cc ed 00 35 00 2b 83 f7                                  ...5.+.. 
+
+Data Payload
+ d9 ae 01 00 00 01 00 00 00 00 00 00 03 77 77 77          .............www 
+ 06 67 6f 6f 67 6c 65 03 63 6f 6d 02 74 77 00 00          .google.com.tw.. 
+ 01 00 01                                                 ... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 61 Bytes(Size of Packet)
+ |-Identification : 10900
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 63225
+ |-Destination Port : 53
+ |-UDP Length : 41
+ |-UDP Checksum : 33781
+
+IP Header
+ 45 00 00 3d 2a 94 00 00 80 11 00 00 c0 a8 01 69          E..=*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ f6 f9 00 35 00 29 83 f5                                  ...5.).. 
+
+Data Payload
+ 29 2d 01 00 00 01 00 00 00 00 00 00 04 70 6c 75          )-...........plu 
+ 73 06 67 6f 6f 67 6c 65 03 63 6f 6d 00 00 01 00          s.google.com.... 
+ 01                                                       . 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 60 Bytes(Size of Packet)
+ |-Identification : 10901
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 65098
+ |-Destination Port : 53
+ |-UDP Length : 40
+ |-UDP Checksum : 33780
+
+IP Header
+ 45 00 00 3c 2a 95 00 00 80 11 00 00 c0 a8 01 69          E..<*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ fe 4a 00 35 00 28 83 f4                                  .J.5.(.. 
+
+Data Payload
+ c8 c8 01 00 00 01 00 00 00 00 00 00 03 77 77 77          .............www 
+ 06 67 6f 6f 67 6c 65 03 63 6f 6d 00 00 01 00 01          .google.com..... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10902
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 74.125.204.132
+
+UDP Header
+ |-Source Port : 63226
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 56946
+
+IP Header
+ 45 00 05 62 2a 96 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ 4a 7d cc 84                                              J}.. 
+
+UDP Header
+ f6 fa 01 bb 05 4e de 72                                  .....N.r 
+
+Data Payload
+ 0d fb 32 3f 67 2c 3a 39 3e 51 30 32 33 01 69 02          ..2?g,:9>Q023.i. 
+ 3a 0d d2 84 38 0a d5 59 25 42 00 a0 01 00 04 43          :...8..Y%B.....C 
+ 48 4c 4f 17 00 00 00 50 41 44 00 8c 01 00 00 53          HLO....PAD.....S 
+ 4e 49 00 a4 01 00 00 53 54 4b 00 de 01 00 00 56          NI.....STK.....V 
+ 45 52 00 e2 01 00 00 43 43 53 00 f2 01 00 00 4e          ER.....CCS.....N 
+ 4f 4e 43 12 02 00 00 4d 53 50 43 16 02 00 00 41          ONC....MSPC....A 
+ 45 41 44 1a 02 00 00 55 41 49 44 30 02 00 00 53          EAD....UAID0...S 
+ 43 49 44 40 02 00 00 54 43 49 44 44 02 00 00 50          CID@...TCIDD...P 
+ 44 4d 44 48 02 00 00 49 43 53 4c 4c 02 00 00 50          DMDH...ICSLL...P 
+ 55 42 53 6c 02 00 00 53 43 4c 53 70 02 00 00 4b          UBSl...SCLSp...K 
+ 45 58 53 74 02 00 00 43 4f 50 54 74 02 00 00 43          EXSt...COPTt...C 
+ 43 52 54 8c 02 00 00 43 47 53 54 90 02 00 00 49          CRT....CGST....I 
+ 52 54 54 94 02 00 00 43 45 54 56 38 03 00 00 43          RTT....CETV8...C 
+ 46 43 57 3c 03 00 00 53 46 43 57 40 03 00 00 2d          FCW<...SFCW@...- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 73 32 2e 67 6f          -----------s2.go 
+ 6f 67 6c 65 75 73 65 72 63 6f 6e 74 65 6e 74 2e          ogleusercontent. 
+ 63 6f 6d 7d 25 3a bd 1f ce b1 fe 4a 61 6a 8e c2          com}%:.....Jaj.. 
+ 40 7f 09 c9 59 60 68 db 25 65 44 74 5a 32 f9 b9          @..Y`h.%eDtZ2.. 
+ 97 b9 ff 4c 85 f1 8c 23 72 1b 3e 23 6b d1 c6 2f          ...L...#r.>#k../ 
+ 8c f0 69 a0 87 3b 7d c8 70 69 18 13 c8 51 30 32          ..i..;}.pi...Q02 
+ 33 39 9f f9 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71          39..S@...{&...\q 
+ ff 55 1f ee 82 e0 10 9a 15 57 9a 00 c5 04 f4 b0          .U.......W...... 
+ 58 29 5d 22 ed 85 f1 f0 78 51 d9 11 15 b3 03 7b          X)]"....xQ.....{ 
+ 8a 64 00 00 00 43 43 31 32 6d 20 43 68 72 6f 6d          .d...CC12m Chrom 
+ 65 2f 34 31 2e 30 2e 32 32 37 32 2e 31 30 31 8b          e/41.0.2272.101. 
+ 18 32 ed e2 42 92 5f b4 3d 1b 3c 2a 60 f2 41 00          .2..B._.=.<*`.A. 
+ 00 00 00 58 35 30 39 1e 00 00 00 24 f2 d0 fc e2          ...X509....$.... 
+ 7e 24 dd 8d d0 e3 c5 10 c6 86 7a ce a5 5c f5 34          ~$........z..\.4 
+ b7 b5 55 66 f4 68 b0 b5 4c d0 5b 01 00 00 00 43          ..Uf.h..L.[....C 
+ 32 35 35 45 a2 1e e3 aa 24 3d a3 12 47 fd 4d 42          255E....$=..G.MB 
+ 91 e5 08 40 0b 7b 90 a9 ae 79 eb 51 42 49 43 62          ...@.{...y.QBICb 
+ 6d 00 00 ee 48 e8 c1 b4 9b 1f 03 a1 5d da b6 b4          m...H.......]... 
+ f1 0f 1d 77 81 5a 10 56 90 af 08 c7 52 aa aa 4c          ...w.Z.V....R..L 
+ 9e 0a a4 cc d7 26 a5 5b 0f e3 76 82 d0 70 18 ff          .....&.[..v..p.. 
+ 45 58 1b d9 37 65 72 d9 ce 37 2a d1 6e 7f 71 47          EX..7er..7*.nqG 
+ 0a fa ac ed af 4f 67 2b a0 82 e8 1c f2 f3 c0 df          .....Og+........ 
+ dc f0 f3 c0 61 d3 87 1e 2b 32 26 24 a3 1f 42 3f          ....a...+2&$..B? 
+ 6e b1 5c c7 0c c1 7c 12 43 94 33 4c 74 77 26 10          n.\...|.C.3Ltw&. 
+ b4 0e 91 73 2c 86 b8 99 4f 1f 24 b6 5a e0 03 4f          ...s,...O.$.Z..O 
+ dc 48 e7 61 27 6d 95 d1 06 a3 8c 3c 09 75 4f 68          .H.a'm.....<.uOh 
+ 00 03 8e 4a 0c 0a 8f e0 4e ad ed 68 6c 09 bc 97          ...J....N..hl... 
+ 59 c5 2a f4 b0 0a e2 00 00 a0 00 00 00 a0 00 00          Y.*............. 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************TCP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 52 Bytes(Size of Packet)
+ |-Identification : 10903
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 1
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 6
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 60.199.175.18
+
+TCP Header
+ |-Source Port : 2924
+ |-Destination Port : 443
+ |-Sequence Number : 3754961373
+ |-Acknowledge Number : 0
+ |-Header Length : 8 DWORDS or 32 BYTES
+ |-CWR Flag : 0
+ |-ECN Flag : 0
+ |-Urgent Flag : 0
+ |-Acknowledgement Flag : 0
+ |-Push Flag : 0
+ |-Reset Flag : 0
+ |-Synchronise Flag : 1
+ |-Finish Flag : 0
+ |-Window : 8192
+ |-Checksum : 44561
+ |-Urgent Pointer : 0
+
+ DATA Dump 
+IP Header
+ 45 00 00 34 2a 97 40 00 80 06 00 00 c0 a8 01 69          E..4*.@........i 
+ 3c c7 af 12                                              <... 
+
+TCP Header
+ 0b 6c 01 bb df d0 29 dd 00 00 00 00 80 02 20 00          .l....)....... . 
+ ae 11 00 00 02 04 05 b4 01 03 03 08 01 01 04 02          ................ 
+
+Data Payload
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 61 Bytes(Size of Packet)
+ |-Identification : 10904
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 192.168.1.1
+
+UDP Header
+ |-Source Port : 58607
+ |-Destination Port : 53
+ |-UDP Length : 41
+ |-UDP Checksum : 33781
+
+IP Header
+ 45 00 00 3d 2a 98 00 00 80 11 00 00 c0 a8 01 69          E..=*..........i 
+ c0 a8 01 01                                              .... 
+
+UDP Header
+ e4 ef 00 35 00 29 83 f5                                  ...5.).. 
+
+Data Payload
+ 3c 6a 01 00 00 01 00 00 00 00 00 00 03 77 77 77          <j...........www 
+ 07 67 73 74 61 74 69 63 03 63 6f 6d 00 00 01 00          .gstatic.com.... 
+ 01                                                       . 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10905
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48529
+
+IP Header
+ 45 00 05 62 2a 99 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 4e bd 91                                  .....N.. 
+
+Data Payload
+ 0d 82 af f1 59 9d 70 0d b2 51 30 32 33 01 64 dd          ....Y.p..Q023.d. 
+ fd 34 5f 3b 83 81 08 17 1c ab 01 a0 01 00 04 43          .4_;...........C 
+ 48 4c 4f 17 00 00 00 50 41 44 00 93 01 00 00 53          HLO....PAD.....S 
+ 4e 49 00 a4 01 00 00 53 54 4b 00 de 01 00 00 56          NI.....STK.....V 
+ 45 52 00 e2 01 00 00 43 43 53 00 f2 01 00 00 4e          ER.....CCS.....N 
+ 4f 4e 43 12 02 00 00 4d 53 50 43 16 02 00 00 41          ONC....MSPC....A 
+ 45 41 44 1a 02 00 00 55 41 49 44 30 02 00 00 53          EAD....UAID0...S 
+ 43 49 44 40 02 00 00 54 43 49 44 44 02 00 00 50          CID@...TCIDD...P 
+ 44 4d 44 48 02 00 00 49 43 53 4c 4c 02 00 00 50          DMDH...ICSLL...P 
+ 55 42 53 6c 02 00 00 53 43 4c 53 70 02 00 00 4b          UBSl...SCLSp...K 
+ 45 58 53 74 02 00 00 43 4f 50 54 74 02 00 00 43          EXSt...COPTt...C 
+ 43 52 54 8c 02 00 00 43 47 53 54 90 02 00 00 49          CRT....CGST....I 
+ 52 54 54 94 02 00 00 43 45 54 56 38 03 00 00 43          RTT....CETV8...C 
+ 46 43 57 3c 03 00 00 53 46 43 57 40 03 00 00 2d          FCW<...SFCW@...- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 77 77 77 2e 67 6f 6f 67 6c 65 2e 63 6f 6d          --www.google.com 
+ 2e 74 77 c7 bc d9 ee 6d b3 67 37 6e 86 93 55 5b          .tw....m.g7n..U[ 
+ bf 48 92 12 ed 58 5e 53 4b 0b 12 06 1e 21 4b ef          .H...X^SK....!K. 
+ c4 4b 07 08 46 d7 b9 c9 0d 4b ef c6 48 9d 57 4c          .K..F....K..H.WL 
+ 1a 6e 70 96 96 b3 62 35 91 4a 12 90 19 51 30 32          .np...b5.J...Q02 
+ 33 39 9f f9 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71          39..S@...{&...\q 
+ ff 55 1f ee 82 21 4c 1c 24 44 88 38 03 5f 1d 00          .U...!L.$D.8._.. 
+ d6 4d cc a5 5b c7 d3 24 a6 5b e8 8a 0b 64 22 8f          .M..[..$.[...d". 
+ c0 64 00 00 00 43 43 31 32 6d 20 43 68 72 6f 6d          .d...CC12m Chrom 
+ 65 2f 34 31 2e 30 2e 32 32 37 32 2e 31 30 31 7f          e/41.0.2272.101 
+ 7d 6d 5b 39 98 f4 13 23 c4 57 82 c1 e8 54 ba 00          }m[9...#.W...T.. 
+ 00 00 00 58 35 30 39 1e 00 00 00 c7 b5 85 84 84          ...X509......... 
+ cf 2b e8 2c 9d 3c 24 83 85 88 98 2e 50 f8 7d 39          .+.,.<$.....P.}9 
+ c6 6b 9e d5 c6 c1 74 44 6c 0f 16 01 00 00 00 43          .k....tDl......C 
+ 32 35 35 3e 6d 7a f1 cf 9e f5 9c 12 47 fd 4d 42          255>mz......G.MB 
+ 91 e5 08 40 0b 7b 90 a9 ae 79 eb 51 42 49 43 97          ...@.{...y.QBIC. 
+ ac 00 00 38 4e 00 79 0c 7c 01 cf 68 9a f8 51 bd          ...8N.y.|..h..Q. 
+ 2e 21 2d 23 a1 5d f6 aa c4 a2 c6 f7 d0 d0 d3 f6          .!-#.].......... 
+ df 0f ca cd cf 65 fe a4 03 ad b7 ff f0 6d 86 00          .....e.......m.. 
+ 5e 7f 58 60 8f 4f 8b f0 05 30 81 71 4d 78 ee e2          ^X`.O...0.qMx.. 
+ 1a 45 7b 05 92 05 63 85 8b fe e9 e3 25 c4 ec 01          .E{...c.....%... 
+ f2 51 85 f2 a7 27 a3 84 16 18 ad 8f 94 b6 32 58          .Q...'........2X 
+ ac 66 95 e3 94 67 84 d0 ca 91 04 8a 09 f8 94 eb          .f...g.......... 
+ dc 1f 54 7d 1e 53 79 3a ef 2b a8 47 58 80 f2 c9          ..T}.Sy:.+.GX... 
+ c5 a8 03 7a 18 77 c9 61 d5 bf 91 d2 3d 37 70 93          ...z.w.a....=7p. 
+ dc 45 bc 2e ac a8 81 ca 0d 68 8c d4 28 82 42 b2          .E.......h..(.B. 
+ 24 c8 28 b9 b8 36 2b 00 00 a0 00 00 00 a0 00 00          $.(..6+......... 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10906
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.147
+
+UDP Header
+ |-Source Port : 58609
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48582
+
+IP Header
+ 45 00 05 62 2a 9a 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 93                                              ..H. 
+
+UDP Header
+ e4 f1 01 bb 05 4e bd c6                                  .....N.. 
+
+Data Payload
+ 0d 77 65 10 fb 61 ad 43 96 51 30 32 33 01 d3 bd          .we..a.C.Q023... 
+ dd 1a 35 21 2b 2a 9f 3e 1b ff 01 a0 01 00 04 43          ..5!+*.>.......C 
+ 48 4c 4f 17 00 00 00 50 41 44 00 96 01 00 00 53          HLO....PAD.....S 
+ 4e 49 00 a4 01 00 00 53 54 4b 00 de 01 00 00 56          NI.....STK.....V 
+ 45 52 00 e2 01 00 00 43 43 53 00 f2 01 00 00 4e          ER.....CCS.....N 
+ 4f 4e 43 12 02 00 00 4d 53 50 43 16 02 00 00 41          ONC....MSPC....A 
+ 45 41 44 1a 02 00 00 55 41 49 44 30 02 00 00 53          EAD....UAID0...S 
+ 43 49 44 40 02 00 00 54 43 49 44 44 02 00 00 50          CID@...TCIDD...P 
+ 44 4d 44 48 02 00 00 49 43 53 4c 4c 02 00 00 50          DMDH...ICSLL...P 
+ 55 42 53 6c 02 00 00 53 43 4c 53 70 02 00 00 4b          UBSl...SCLSp...K 
+ 45 58 53 74 02 00 00 43 4f 50 54 74 02 00 00 43          EXSt...COPTt...C 
+ 43 52 54 8c 02 00 00 43 47 53 54 90 02 00 00 49          CRT....CGST....I 
+ 52 54 54 94 02 00 00 43 45 54 56 38 03 00 00 43          RTT....CETV8...C 
+ 46 43 57 3c 03 00 00 53 46 43 57 40 03 00 00 2d          FCW<...SFCW@...- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 77 77 77 2e 67 6f 6f 67 6c 65 2e          -----www.google. 
+ 63 6f 6d bd bb 63 f7 f8 7f 6f a6 cb f2 ce de bf          com..c..o...... 
+ 23 b9 6b 27 1e bb e7 35 ca 83 30 f9 16 c2 e5 a1          #.k'...5..0..... 
+ e2 a1 06 a3 11 bf 92 f1 5f 1d c6 15 90 69 0b b8          ........_....i.. 
+ 11 37 14 7d aa 86 90 6f 94 36 84 43 fb 51 30 32          .7.}...o.6.C.Q02 
+ 33 39 9f f9 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71          39..S@...{&...\q 
+ ff 55 1f ee 82 0d 6e 32 86 e9 3d f9 87 a2 60 20          .U....n2..=...`  
+ 88 05 09 5e 37 b2 6c c3 f2 e2 63 23 35 39 38 f0          ...^7.l...c#598. 
+ 6e 64 00 00 00 43 43 31 32 6d 20 43 68 72 6f 6d          nd...CC12m Chrom 
+ 65 2f 34 31 2e 30 2e 32 32 37 32 2e 31 30 31 52          e/41.0.2272.101R 
+ 10 67 57 f6 7f d0 45 44 f2 ef 83 c6 e9 c9 6c 00          .gW..ED......l. 
+ 00 00 00 58 35 30 39 1e 00 00 00 d1 51 47 2b d1          ...X509.....QG+. 
+ 18 db e8 f0 21 7d 04 e0 56 f0 bf d8 7b da 52 f8          ....!}..V...{.R. 
+ ff 2b f5 42 d4 b6 a8 e2 e2 2d 71 01 00 00 00 43          .+.B.....-q....C 
+ 32 35 35 54 d9 ce a4 49 56 52 9e 12 47 fd 4d 42          255T...IVR..G.MB 
+ 91 e5 08 40 0b 7b 90 a9 ae 79 eb 51 42 49 43 6a          ...@.{...y.QBICj 
+ 87 00 00 73 83 03 00 5d 02 42 d0 14 cb 36 0a 26          ...s...].B...6.& 
+ 65 7d 7f 12 fd 2f ca 22 2b 19 30 f1 69 9f b4 50          e}../."+.0.i..P 
+ 51 58 cd 91 fd d3 63 88 b3 35 b8 af cf 51 40 c1          QX....c..5...Q@. 
+ b5 ac 16 01 3b 78 49 5c 1b 4b 59 65 b1 de 4d 4c          ....;xI\.KYe..ML 
+ 79 63 b0 d0 00 a7 e9 db d0 f4 a1 2b b0 6e 21 f2          yc.........+.n!. 
+ 57 c3 fc 99 2c 85 70 d2 e3 12 31 fe 94 92 9b 5b          W...,.p...1....[ 
+ 70 35 ee 84 d5 0a 77 39 02 e6 87 df 1d 8a 18 19          p5....w9........ 
+ c7 29 f8 4d 49 30 dd de ea db 75 cd b6 c4 f6 b9          .).MI0....u..... 
+ ab d5 68 24 cf 2e 52 7a db a5 05 67 ee 84 72 59          ..h$..Rz...g..rY 
+ d2 81 f9 e3 27 7f f3 f4 d6 53 ff a5 17 02 95 22          ....'...S....." 
+ d8 85 af 00 4e 32 21 00 00 a0 00 00 00 a0 00 00          ....N2!......... 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************TCP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 40 Bytes(Size of Packet)
+ |-Identification : 10907
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 1
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 6
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 60.199.175.18
+
+TCP Header
+ |-Source Port : 2924
+ |-Destination Port : 443
+ |-Sequence Number : 3754961374
+ |-Acknowledge Number : 1527899026
+ |-Header Length : 5 DWORDS or 20 BYTES
+ |-CWR Flag : 0
+ |-ECN Flag : 0
+ |-Urgent Flag : 0
+ |-Acknowledgement Flag : 1
+ |-Push Flag : 0
+ |-Reset Flag : 0
+ |-Synchronise Flag : 0
+ |-Finish Flag : 0
+ |-Window : 256
+ |-Checksum : 44549
+ |-Urgent Pointer : 0
+
+ DATA Dump 
+IP Header
+ 45 00 00 28 2a 9b 40 00 80 06 00 00 c0 a8 01 69          E..(*.@........i 
+ 3c c7 af 12                                              <... 
+
+TCP Header
+ 0b 6c 01 bb df d0 29 de 5b 11 e3 92 50 10 01 00          .l....).[...P... 
+ ae 05 00 00                                              .... 
+
+Data Payload
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10908
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 74.125.204.132
+
+UDP Header
+ |-Source Port : 63226
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 56946
+
+IP Header
+ 45 00 05 62 2a 9c 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ 4a 7d cc 84                                              J}.. 
+
+UDP Header
+ f6 fa 01 bb 05 4e de 72                                  .....N.r 
+
+Data Payload
+ 0c fb 32 3f 67 2c 3a 39 3e 02 64 e0 cb 21 7f f2          ..2?g,:9>.d..!. 
+ 93 22 66 1f 3a 6f 00 40 00 01 41 16 01 00 a0 d2          ."f.:o.@..A..... 
+ 00 00 06 00 01 a4 01 00 04 00 04 43 48 4c 4f 18          ...........CHLO. 
+ 00 00 00 50 41 44 00 4a 01 00 00 53 4e 49 00 62          ...PAD.J...SNI.b 
+ 01 00 00 53 54 4b 00 9e 01 00 00 53 4e 4f 00 d6          ...STK.....SNO.. 
+ 01 00 00 56 45 52 00 da 01 00 00 43 43 53 00 ea          ...VER.....CCS.. 
+ 01 00 00 4e 4f 4e 43 0a 02 00 00 4d 53 50 43 0e          ...NONC....MSPC. 
+ 02 00 00 41 45 41 44 12 02 00 00 55 41 49 44 28          ...AEAD....UAID( 
+ 02 00 00 53 43 49 44 38 02 00 00 54 43 49 44 3c          ...SCID8...TCID< 
+ 02 00 00 50 44 4d 44 40 02 00 00 49 43 53 4c 44          ...PDMD@...ICSLD 
+ 02 00 00 50 55 42 53 64 02 00 00 53 43 4c 53 68          ...PUBSd...SCLSh 
+ 02 00 00 4b 45 58 53 6c 02 00 00 43 4f 50 54 6c          ...KEXSl...COPTl 
+ 02 00 00 43 43 52 54 84 02 00 00 43 47 53 54 88          ...CCRT....CGST. 
+ 02 00 00 49 52 54 54 8c 02 00 00 43 45 54 56 30          ...IRTT....CETV0 
+ 03 00 00 43 46 43 57 34 03 00 00 53 46 43 57 38          ...CFCW4...SFCW8 
+ 03 00 00 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ...------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 73 32 2e          -------------s2. 
+ 67 6f 6f 67 6c 65 75 73 65 72 63 6f 6e 74 65 6e          googleuserconten 
+ 74 2e 63 6f 6d 11 ef bc 77 ab fd 08 e9 41 a6 fa          t.com...w....A.. 
+ 0f 01 49 7e 80 9c 3d 29 02 8e 98 49 ab 27 83 0c          ..I~..=)...I.'.. 
+ 1d a3 f0 20 67 a5 ce d1 42 e0 44 71 dd 66 f1 85          ... g...B.Dq.f.. 
+ ee 2e c9 ab b7 a5 7e 66 1c 6b 3d 69 0f 36 35 d5          ......~f.k=i.65. 
+ 5e e9 85 24 49 76 75 90 87 c3 36 62 73 16 41 b8          ^..$Ivu...6bs.A. 
+ 89 2b 17 c9 83 14 14 71 4d 5b 6f 4b 00 a0 eb 39          .+.....qM[oK...9 
+ eb 75 0d 24 7f ba fc 95 a4 3f 03 f3 9c 8e f1 ea          .u.$....?...... 
+ db b2 71 ac be 0d 26 ea 70 51 30 32 33 39 9f f9          ..q...&.pQ0239.. 
+ 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71 ff 55 1f ee          S@...{&...\q.U.. 
+ 82 34 0e e2 76 5b 8d 13 79 58 5b b3 c1 e5 50 dc          .4..v[..yX[...P. 
+ c0 ba 84 09 35 0f bc 28 1a 60 66 fc 53 64 00 00          ....5..(.`f.Sd.. 
+ 00 43 43 31 32 6d 20 43 68 72 6f 6d 65 2f 34 31          .CC12m Chrome/41 
+ 2e 30 2e 32 32 37 32 2e 31 30 31 23 0c c6 e1 a8          .0.2272.101#.... 
+ e5 28 a5 11 4b ec 9d 05 d7 93 31 00 00 00 00 58          .(..K.....1....X 
+ 35 30 39 1e 00 00 00 5a 12 6f e4 e3 d2 c8 9d f8          509....Z.o...... 
+ d4 bf c5 2e a8 37 4d 34 0b 7b 8e b8 a2 f5 68 5d          .....7M4.{....h] 
+ ae 0f 5d 69 e4 be 4c 01 00 00 00 43 32 35 35 45          ..]i..L....C255E 
+ a2 1e e3 aa 24 3d a3 12 47 fd 4d 42 91 e5 08 40          ....$=..G.MB...@ 
+ 0b 7b 90 a9 ae 79 eb 51 42 49 43 62 6d 00 00 70          .{...y.QBICbm..p 
+ ec ee 9b 60 71 c4 5c f7 df da 90 fb 09 c9 5e cb          ...`q.\.......^. 
+ 01 1e 59 8a 2c e4 6d 40 2c d1 e2 47 ef 74 d3 b2          ..Y.,.m@,..G.t.. 
+ 5c a5 1a 0b 98 d7 e2 48 81 e1 0f dd 1a b6 4f a6          \......H......O. 
+ 44 64 ec 9a bf 7e 80 9d c2 9f c1 59 7c 7f 5e f3          Dd...~.....Y|^. 
+ 27 fb e9 57 75 13 7e 88 31 e0 de ca 66 d0 2f a6          '..Wu.~.1...f./. 
+ 93 a9 14 6d 80 81 cc bf f5 df 66 6a ae 3b 3e 49          ...m......fj.;>I 
+ 0c 0d 98 68 5c 88 2c 35 27 25 02 9e 19 aa af b2          ...h\.,5'%...... 
+ ea ed 17 0d 09 d4 16 8f f5 55 fd 55 7f d1 e4 bf          .........U.U... 
+ 54 3f f6 0c aa e7 34 84 5c e7 00 84 d1 b2 86 26          T?....4.\......& 
+ 05 8c 6d 65 d0 9a 50 29 a6 e2 db 0d 00 d2 ba 35          ..me..P).......5 
+ 56 93 52 00 00 a0 00 00 00 a0 00 00 00 00 00 00          V.R............. 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************TCP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 557 Bytes(Size of Packet)
+ |-Identification : 10909
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 1
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 6
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 60.199.175.18
+
+TCP Header
+ |-Source Port : 2924
+ |-Destination Port : 443
+ |-Sequence Number : 3754961374
+ |-Acknowledge Number : 1527899026
+ |-Header Length : 5 DWORDS or 20 BYTES
+ |-CWR Flag : 0
+ |-ECN Flag : 0
+ |-Urgent Flag : 0
+ |-Acknowledgement Flag : 1
+ |-Push Flag : 1
+ |-Reset Flag : 0
+ |-Synchronise Flag : 0
+ |-Finish Flag : 0
+ |-Window : 256
+ |-Checksum : 45066
+ |-Urgent Pointer : 0
+
+ DATA Dump 
+IP Header
+ 45 00 02 2d 2a 9d 40 00 80 06 00 00 c0 a8 01 69          E..-*.@........i 
+ 3c c7 af 12                                              <... 
+
+TCP Header
+ 0b 6c 01 bb df d0 29 de 5b 11 e3 92 50 18 01 00          .l....).[...P... 
+ b0 0a 00 00                                              .... 
+
+Data Payload
+ 16 03 01 02 00 01 00 01 fc 03 03 16 be 4f 9c 58          .............O.X 
+ e6 7f 9b 34 02 e9 24 01 ed 79 9b f4 06 ae 2d 34          ..4..$..y....-4 
+ 65 ec 27 a2 a3 a8 8d 07 fc 21 6a 20 d2 b0 ef 5d          e.'......!j ...] 
+ 77 e9 0b fb ff e6 8b c4 c2 09 99 3e b3 9b 0d bf          w..........>.... 
+ 02 d8 3d 52 00 f6 e1 19 70 4c a3 a1 00 2a c0 2b          ..=R....pL...*.+ 
+ c0 2f 00 9e cc 14 cc 13 cc 15 c0 0a c0 14 00 39          ./.............9 
+ c0 09 c0 13 00 33 c0 07 c0 11 00 9c 00 35 00 2f          .....3.......5./ 
+ 00 05 00 04 00 0a 00 ff 01 00 01 89 00 00 00 14          ................ 
+ 00 12 00 00 0f 70 6c 75 73 2e 67 6f 6f 67 6c 65          .....plus.google 
+ 2e 63 6f 6d 00 17 00 00 00 23 00 d4 0d f7 d7 9a          .com.....#...... 
+ 3e ed ce 76 27 e3 c2 61 a3 b1 ee d1 f3 7b 71 54          >..v'..a.....{qT 
+ da cb a0 31 80 5d d9 94 94 f6 84 10 4f 0b 82 8a          ...1.]......O... 
+ 0e cb 69 e1 ca 14 8d 4d 06 29 a4 b9 d6 c3 41 ea          ..i....M.)....A. 
+ 0b 30 dc 72 fd 87 48 49 fc 87 d9 b2 fb f6 c8 1b          .0.r..HI........ 
+ c9 65 ce 91 e7 4d 7f e1 86 d8 2e 04 69 22 a9 61          .e...M.....i".a 
+ 0a 24 19 35 23 f8 32 5f 08 ec 09 2d db 90 89 5a          .$.5#.2_...-...Z 
+ 7b 97 13 02 7b 00 b2 70 86 30 24 5e df 0a 2e 51          {...{..p.0$^...Q 
+ c9 5d be c2 35 82 3a c6 97 95 d8 4b 07 73 a2 79          .]..5.:....K.s.y 
+ 23 f3 3f 05 c5 4a 64 82 22 d9 7d 19 04 f1 91 bf          #.?..Jd.".}..... 
+ ce b1 ea c5 01 4b 49 86 67 d1 86 65 06 fc ca 04          .....KI.g..e.... 
+ 3e 44 f5 14 ce 09 0c 5f f7 93 97 4b fd 96 09 e6          >D....._...K.... 
+ a7 7d 89 5d 7d ac ce 8a db 99 99 3a 74 f5 62 26          .}.]}......:t.b& 
+ 7d 31 4d 38 76 00 49 c3 a1 f3 12 ab 8e b5 4a 1b          }1M8v.I.......J. 
+ 00 0d 00 16 00 14 06 01 06 03 05 01 05 03 04 01          ................ 
+ 04 03 03 01 03 03 02 01 02 03 00 05 00 05 01 00          ................ 
+ 00 00 00 33 74 00 00 00 12 00 00 00 10 00 1a 00          ...3t........... 
+ 18 08 68 74 74 70 2f 31 2e 31 08 73 70 64 79 2f          ..http/1.1.spdy/ 
+ 33 2e 31 05 68 32 2d 31 34 75 50 00 00 00 0b 00          3.1.h2-14uP..... 
+ 02 01 00 00 0a 00 08 00 06 00 17 00 18 00 19 00          ................ 
+ 15 00 32 00 00 00 00 00 00 00 00 00 00 00 00 00          ..2............. 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00                                           ..... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10910
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48529
+
+IP Header
+ 45 00 05 62 2a 9e 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 4e bd 91                                  .....N.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 02 59 26 c9 20 e9 fd          ....Y.p...Y&. .. 
+ 32 32 6d 03 dd 09 01 a4 01 00 04 00 04 43 48 4c          22m..........CHL 
+ 4f 18 00 00 00 50 41 44 00 51 01 00 00 53 4e 49          O....PAD.Q...SNI 
+ 00 62 01 00 00 53 54 4b 00 9e 01 00 00 53 4e 4f          .b...STK.....SNO 
+ 00 d6 01 00 00 56 45 52 00 da 01 00 00 43 43 53          .....VER.....CCS 
+ 00 ea 01 00 00 4e 4f 4e 43 0a 02 00 00 4d 53 50          .....NONC....MSP 
+ 43 0e 02 00 00 41 45 41 44 12 02 00 00 55 41 49          C....AEAD....UAI 
+ 44 28 02 00 00 53 43 49 44 38 02 00 00 54 43 49          D(...SCID8...TCI 
+ 44 3c 02 00 00 50 44 4d 44 40 02 00 00 49 43 53          D<...PDMD@...ICS 
+ 4c 44 02 00 00 50 55 42 53 64 02 00 00 53 43 4c          LD...PUBSd...SCL 
+ 53 68 02 00 00 4b 45 58 53 6c 02 00 00 43 4f 50          Sh...KEXSl...COP 
+ 54 6c 02 00 00 43 43 52 54 84 02 00 00 43 47 53          Tl...CCRT....CGS 
+ 54 88 02 00 00 49 52 54 54 8c 02 00 00 43 45 54          T....IRTT....CET 
+ 56 30 03 00 00 43 46 43 57 34 03 00 00 53 46 43          V0...CFCW4...SFC 
+ 57 38 03 00 00 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          W8...----------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 77 77 77 2e 67 6f 6f 67 6c 65          ------www.google 
+ 2e 63 6f 6d 2e 74 77 8a 7b 59 ac ff 57 91 99 34          .com.tw.{Y..W..4 
+ d7 b2 6e 2c a3 26 23 77 cb 9a c3 e2 02 83 38 48          ..n,.&#w......8H 
+ f6 a7 d6 79 6c 7c 21 dc 4d 15 52 bb 2a fe 92 79          ...yl|!.M.R.*..y 
+ 1c 7b 4c 4f e2 c0 f5 89 53 64 0b 84 cd 72 d2 8d          .{LO....Sd...r.. 
+ 77 76 3d 8c be a5 7f 7b 06 b9 3d e9 69 07 aa 60          wv=...{..=.i..` 
+ fe b6 f0 ba 9a bd da da e3 03 f5 4f 2e 9f 85 f8          ...........O.... 
+ d5 5e d1 cb a9 4e 37 b5 25 65 9a bf 01 ed 6e a5          .^...N7.%e....n. 
+ f1 30 bf b9 9c 7e da 88 c7 12 9b 51 30 32 33 39          .0...~.....Q0239 
+ 9f f9 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71 ff 55          ..S@...{&...\q.U 
+ 1f ee 82 24 eb 26 34 0d 55 d7 0b 3a 4e 49 07 e0          ...$.&4.U..:NI.. 
+ c8 7c 2a 34 58 6c 47 33 29 6b 73 af fa 31 39 64          .|*4XlG3)ks..19d 
+ 00 00 00 43 43 31 32 6d 20 43 68 72 6f 6d 65 2f          ...CC12m Chrome/ 
+ 34 31 2e 30 2e 32 32 37 32 2e 31 30 31 0b 28 0d          41.0.2272.101.(. 
+ 09 c3 43 38 fe 7b 1f b6 ff 23 de f5 fd 00 00 00          ..C8.{...#...... 
+ 00 58 35 30 39 1e 00 00 00 87 70 ed b6 d6 b1 39          .X509.....p....9 
+ e9 3f 32 2c c0 c9 4b 8e d9 09 49 bc 01 81 77 9f          .?2,..K...I...w. 
+ ab 2f 29 d3 66 d0 20 ce 3a 01 00 00 00 43 32 35          ./).f. .:....C25 
+ 35 e7 7a c8 0f 14 40 45 1f 12 47 fd 4d 42 91 e5          5.z...@E..G.MB.. 
+ 08 40 0b 7b 90 a9 ae 79 eb 51 42 49 43 97 ac 00          .@.{...y.QBIC... 
+ 00 f2 db f9 8e f8 0f 94 95 16 7f 92 ed d0 76 80          .............v. 
+ 8b 43 c6 06 b1 99 d0 11 70 7c ff 12 71 63 1b 2f          .C......p|..qc./ 
+ b3 ff 05 b5 44 f3 65 e4 11 eb a5 c5 ff 9e 12 cc          ....D.e......... 
+ 7a e2 d0 8e f6 5d 3f cb a6 00 c2 d9 a8 ef 07 38          z....]?........8 
+ 07 b3 50 98 0f bb bd ef 4f fa 97 a7 59 32 bf eb          ..P.....O...Y2.. 
+ 47 cc bb fe f8 9a cc 14 09 98 51 39 76 ad 8f 38          G.........Q9v..8 
+ 77 d5 b9 e2 1c 20 cb c0 38 58 b1 1e 99 18 eb da          w.... ..8X...... 
+ 6e 2d 2b 55 4a 45 11 ca e7 39 70 27 f6 bd d8 d5          n-+UJE...9p'.... 
+ 96 b2 52 3f b5 bf 01 95 6b a9 b4 f7 89 24 d8 18          ..R?....k....$.. 
+ 05 53 a0 af e2 5d f3 8b 4a c4 1f 2e 23 b0 41 be          .S...]..J...#.A. 
+ 71 e5 52 17 7c 00 00 a0 00 00 00 a0 00 00 00 00          q.R.|........... 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10911
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a 9f 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 03 77 ea e8 b7 59 9d          ....Y.p...w...Y. 
+ 64 06 e2 49 d4 de 2a 49 6e b8 bf 31 c9 81 79 4c          d..I..*In..1..yL 
+ f2 c6 b9 32 1f 37 19 7e                                  ...2.7.~ 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10912
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.147
+
+UDP Header
+ |-Source Port : 58609
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48582
+
+IP Header
+ 45 00 05 62 2a a0 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 93                                              ..H. 
+
+UDP Header
+ e4 f1 01 bb 05 4e bd c6                                  .....N.. 
+
+Data Payload
+ 0c 77 65 10 fb 61 ad 43 96 02 fc 40 d7 24 6f 68          .we..a.C...@.$oh 
+ 5d 18 2e a4 6d d3 00 a4 01 00 04 00 04 43 48 4c          ]...m........CHL 
+ 4f 18 00 00 00 50 41 44 00 54 01 00 00 53 4e 49          O....PAD.T...SNI 
+ 00 62 01 00 00 53 54 4b 00 9e 01 00 00 53 4e 4f          .b...STK.....SNO 
+ 00 d6 01 00 00 56 45 52 00 da 01 00 00 43 43 53          .....VER.....CCS 
+ 00 ea 01 00 00 4e 4f 4e 43 0a 02 00 00 4d 53 50          .....NONC....MSP 
+ 43 0e 02 00 00 41 45 41 44 12 02 00 00 55 41 49          C....AEAD....UAI 
+ 44 28 02 00 00 53 43 49 44 38 02 00 00 54 43 49          D(...SCID8...TCI 
+ 44 3c 02 00 00 50 44 4d 44 40 02 00 00 49 43 53          D<...PDMD@...ICS 
+ 4c 44 02 00 00 50 55 42 53 64 02 00 00 53 43 4c          LD...PUBSd...SCL 
+ 53 68 02 00 00 4b 45 58 53 6c 02 00 00 43 4f 50          Sh...KEXSl...COP 
+ 54 6c 02 00 00 43 43 52 54 84 02 00 00 43 47 53          Tl...CCRT....CGS 
+ 54 88 02 00 00 49 52 54 54 8c 02 00 00 43 45 54          T....IRTT....CET 
+ 56 30 03 00 00 43 46 43 57 34 03 00 00 53 46 43          V0...CFCW4...SFC 
+ 57 38 03 00 00 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          W8...----------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d 2d          ---------------- 
+ 2d 2d 2d 2d 2d 2d 2d 2d 2d 77 77 77 2e 67 6f 6f          ---------www.goo 
+ 67 6c 65 2e 63 6f 6d 92 00 be d3 89 f3 65 87 2a          gle.com......e.* 
+ 4d 11 09 a2 05 c3 e5 57 23 b8 1f ba 76 1d 8e 61          M......W#...v..a 
+ ca 48 4f fa f0 8d 25 1e 5d 42 b9 d1 ae b6 a0 9e          .HO...%.]B...... 
+ 9d a4 fa be 09 cd 56 cb 21 8b 4c b8 3f a4 b1 7b          ......V.!.L.?..{ 
+ c4 bf d2 0a 53 4a 3f 11 6f db 38 dd 8e 80 bb 27          ....SJ?.o.8....' 
+ cc 1b 81 3a c0 41 ee f8 67 25 42 d9 1a af ee 27          ...:.A..g%B....' 
+ f8 72 9c 12 fe c4 4c e9 50 0e 1b 1d 2d 18 18 8c          .r....L.P...-... 
+ 9e c1 50 bb a6 9c 7a 39 f4 04 7b 51 30 32 33 39          ..P...z9..{Q0239 
+ 9f f9 53 40 f7 fe c9 7b 26 e9 e7 e4 5c 71 ff 55          ..S@...{&...\q.U 
+ 1f ee 82 24 eb 26 34 0d 55 d7 0b 95 16 f4 7d e7          ...$.&4.U.....}. 
+ f5 2d 59 42 a9 39 26 ab 51 ce 38 9b cf 93 f2 64          .-YB.9&.Q.8....d 
+ 00 00 00 43 43 31 32 6d 20 43 68 72 6f 6d 65 2f          ...CC12m Chrome/ 
+ 34 31 2e 30 2e 32 32 37 32 2e 31 30 31 3d 9d a2          41.0.2272.101=.. 
+ 48 8f 3b b9 ba 18 e2 65 ff 7a f5 0b a4 00 00 00          H.;....e.z...... 
+ 00 58 35 30 39 1e 00 00 00 f4 34 2a 65 6c fb 1e          .X509.....4*el.. 
+ 92 d8 38 21 ff a6 43 73 57 03 5a 6a e7 47 16 c2          ..8!..CsW.Zj.G.. 
+ b4 03 18 77 3d 70 13 cd 55 01 00 00 00 43 32 35          ...w=p..U....C25 
+ 35 5c 04 9f 0e df 3f 08 e1 12 47 fd 4d 42 91 e5          5\....?...G.MB.. 
+ 08 40 0b 7b 90 a9 ae 79 eb 51 42 49 43 6a 87 00          .@.{...y.QBICj.. 
+ 00 84 af 95 82 8b 94 11 bf 01 79 da 51 1a 1f 7c          ..........y.Q..| 
+ 0f e0 02 65 4d c7 f0 34 91 bb 21 a6 08 e6 80 5c          ...eM..4..!....\ 
+ dc 19 d6 4c b8 72 ac bb eb 81 5f 10 e8 2d 4a bf          ...L.r...._..-J. 
+ aa 0b d9 ad 08 8f c6 97 bf 99 41 fe 85 d9 5b 8f          ..........A...[. 
+ 11 cf aa 9a d5 89 84 cb f8 3f f2 57 59 88 50 37          .........?.WY.P7 
+ 94 22 0f a9 89 e6 09 ef 4a 24 e8 d0 22 3a 2a e8          ."......J$..":*. 
+ 03 9c e8 38 9f 06 7f 4e 3c a7 44 13 a0 99 88 05          ...8..N<.D..... 
+ be 8d 48 93 8e 61 3c 80 9c a3 67 9d ef c6 46 8f          ..H..a<...g...F. 
+ e0 aa 0e 48 2a 55 f5 12 d9 71 78 02 c6 e4 2e c5          ...H*U...qx..... 
+ 27 0d 43 64 17 0e 06 4d bf 53 32 a7 0d 33 c8 4f          '.Cd...M.S2..3.O 
+ ec 0e aa 4d 3b 00 00 a0 00 00 00 a0 00 00 00 00          ...M;........... 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00          ................ 
+ 00 00 00 00 00 00                                        ...... 
+
+
+###########################################################
+
+***********************TCP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 256 Bytes(Size of Packet)
+ |-Identification : 10913
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 1
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 6
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 60.199.175.18
+
+TCP Header
+ |-Source Port : 2924
+ |-Destination Port : 443
+ |-Sequence Number : 3754961891
+ |-Acknowledge Number : 1527899179
+ |-Header Length : 5 DWORDS or 20 BYTES
+ |-CWR Flag : 0
+ |-ECN Flag : 0
+ |-Urgent Flag : 0
+ |-Acknowledgement Flag : 1
+ |-Push Flag : 1
+ |-Reset Flag : 0
+ |-Synchronise Flag : 0
+ |-Finish Flag : 0
+ |-Window : 256
+ |-Checksum : 44765
+ |-Urgent Pointer : 0
+
+ DATA Dump 
+IP Header
+ 45 00 01 00 2a a1 40 00 80 06 00 00 c0 a8 01 69          E...*.@........i 
+ 3c c7 af 12                                              <... 
+
+TCP Header
+ 0b 6c 01 bb df d0 2b e3 5b 11 e4 2b 50 18 01 00          .l....+.[..+P... 
+ ae dd 00 00                                              .... 
+
+Data Payload
+ 14 03 03 00 01 01 16 03 03 00 a0 00 00 00 00 00          ................ 
+ 00 00 00 56 bb b5 0e bc e8 cb 37 8d 34 7c 17 82          ...V......7.4|.. 
+ e2 df 3d d5 98 af 19 a4 bf 69 d1 c3 b3 f6 cc bd          ..=......i...... 
+ b6 46 96 27 2b 4e da 10 ff 21 ec 0e 9d 3d 6c e2          .F.'+N...!...=l. 
+ 7a 3a 67 8d ef 4d 2c ef 73 63 83 d1 39 3e 8e fd          z:g..M,.sc..9>.. 
+ 77 7d 5b 30 6f bc 4d 0a 13 b8 52 32 4f 27 9c 2e          w}[0o.M...R2O'.. 
+ 47 c8 18 14 e8 19 fe e3 0b 5d fb e2 5b b6 40 26          G........]..[.@& 
+ 8a 6d 22 10 ca 1b 6d 38 03 d8 37 b8 2c dc ac ec          .m"...m8..7.,... 
+ 6f 77 85 a6 c6 bf 8c 42 05 41 65 94 44 53 12 14          ow.....B.Ae.DS.. 
+ 33 36 9b 04 d8 27 63 e2 4d 99 eb 40 03 ff 08 98          36...'c.M..@.... 
+ a9 64 4a 41 35 7f f1 1b 5e 5c bf 16 03 03 00 28          .dJA5..^\.....( 
+ 00 00 00 00 00 00 00 01 37 d9 7c a5 8c ce 61 b9          ........7.|...a. 
+ 0d d5 7a 1f 8a 50 90 d8 4a f3 20 2d 79 cd a1 f8          ..z..P..J. -y... 
+ 1c 85 74 b0 60 02 89 bf                                  ..t.`... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10914
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.147
+
+UDP Header
+ |-Source Port : 58609
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47272
+
+IP Header
+ 45 00 00 44 2a a2 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 93                                              ..H. 
+
+UDP Header
+ e4 f1 01 bb 00 30 b8 a8                                  .....0.. 
+
+Data Payload
+ 0c 77 65 10 fb 61 ad 43 96 03 ea 00 11 22 2a 6f          .we..a.C....."*o 
+ 63 79 d6 24 54 a0 62 a1 da f6 1a c5 a9 62 3d f1          cy.$T.b......b=. 
+ 46 51 31 92 60 d5 64 4f                                  FQ1.`.dO 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10915
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 74.125.204.132
+
+UDP Header
+ |-Source Port : 63226
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 55633
+
+IP Header
+ 45 00 00 41 2a a3 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ 4a 7d cc 84                                              J}.. 
+
+UDP Header
+ f6 fa 01 bb 00 2d d9 51                                  .....-.Q 
+
+Data Payload
+ 0c fb 32 3f 67 2c 3a 39 3e 03 c3 8f b8 93 2f 40          ..2?g,:9>...../@ 
+ 9a 6c 42 1f bb b6 7c a9 7f c4 49 9c 89 33 5f 24          .lB...|..I..3_$ 
+ 1f b6 40 c7 85                                           ..@.. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10916
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 47216
+
+IP Header
+ 45 00 00 41 2a a4 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 2d b8 70                                  .....-.p 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 04 b1 eb 35 9d 84 f3          ....Y.p.....5... 
+ 2e 73 13 93 9a 0e 41 c2 b3 26 6e d7 95 fb dd 7a          .s....A..&n....z 
+ 5d 4b c4 12 23                                           ]K..# 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10917
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.147
+
+UDP Header
+ |-Source Port : 58609
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 47269
+
+IP Header
+ 45 00 00 41 2a a5 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ ad c2 48 93                                              ..H. 
+
+UDP Header
+ e4 f1 01 bb 00 2d b8 a5                                  .....-.. 
+
+Data Payload
+ 0c 77 65 10 fb 61 ad 43 96 04 18 17 d5 84 46 f7          .we..a.C......F. 
+ 9c a9 64 39 3f 22 62 d8 d6 bc ac 7b 1f 29 c6 28          ..d9?"b....{.).( 
+ 69 56 31 a2 2d                                           iV1.- 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10918
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 74.125.204.132
+
+UDP Header
+ |-Source Port : 63226
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 55633
+
+IP Header
+ 45 00 00 41 2a a6 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ 4a 7d cc 84                                              J}.. 
+
+UDP Header
+ f6 fa 01 bb 00 2d d9 51                                  .....-.Q 
+
+Data Payload
+ 0c fb 32 3f 67 2c 3a 39 3e 04 99 03 b6 f4 f8 d2          ..2?g,:9>....... 
+ c4 e7 9f af 7f 32 ce c9 96 c4 2c 7c ea 38 3c 70          ....2....,|.8<p 
+ df b5 4f af 70                                           ..O.p 
+
+
+###########################################################
+
+***********************TCP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 40 Bytes(Size of Packet)
+ |-Identification : 10919
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 1
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 6
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 60.199.175.18
+
+TCP Header
+ |-Source Port : 2924
+ |-Destination Port : 443
+ |-Sequence Number : 3754962107
+ |-Acknowledge Number : 1527899277
+ |-Header Length : 5 DWORDS or 20 BYTES
+ |-CWR Flag : 0
+ |-ECN Flag : 0
+ |-Urgent Flag : 0
+ |-Acknowledgement Flag : 1
+ |-Push Flag : 0
+ |-Reset Flag : 0
+ |-Synchronise Flag : 0
+ |-Finish Flag : 0
+ |-Window : 255
+ |-Checksum : 44549
+ |-Urgent Pointer : 0
+
+ DATA Dump 
+IP Header
+ 45 00 00 28 2a a7 40 00 80 06 00 00 c0 a8 01 69          E..(*.@........i 
+ 3c c7 af 12                                              <... 
+
+TCP Header
+ 0b 6c 01 bb df d0 2c bb 5b 11 e4 8d 50 10 00 ff          .l....,.[...P... 
+ ae 05 00 00                                              .... 
+
+Data Payload
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1232 Bytes(Size of Packet)
+ |-Identification : 10920
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1212
+ |-UDP Checksum : 48383
+
+IP Header
+ 45 00 04 d0 2a a8 00 00 80 11 00 00 c0 a8 01 69          E...*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 04 bc bc ff                                  ........ 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 05 49 d6 b2 d5 c7 9a          ....Y.p...I..... 
+ 01 36 bd 2b 12 13 d3 ee 8c f5 5b 8c 11 a5 56 66          .6.+......[...Vf 
+ f7 8c 57 ca 43 fa 69 af cd 66 98 98 8a 18 e2 86          ..W.C.i..f...... 
+ aa 7f 86 d6 58 90 d5 0c 7c 2b 28 0c 20 3c 66 a4          ...X...|+(. <f. 
+ 01 ad e9 9a e7 45 70 2d 84 f4 42 b7 7c b9 5c c4          .....Ep-..B.|.\. 
+ 2e 79 57 e5 0f 41 62 46 9d 3f e6 c4 e8 eb 2d bb          .yW..AbF.?....-. 
+ 2c 1c a1 56 c5 d4 d8 88 a8 ab 39 b3 97 99 b9 e7          ,..V......9..... 
+ 1a c7 20 d1 bc 1e 1e b0 2e 1c b8 a4 14 7c af ce          .. ..........|.. 
+ 2b 81 61 1b 53 e8 8f de d1 b0 f9 a1 be 57 1b ee          +.a.S........W.. 
+ ed 9a 52 ea 53 ac 13 b7 8e 0b ea bf 4a a7 93 88          ..R.S.......J... 
+ 4a b2 da b8 5a 6c 3a d1 94 19 54 b5 29 6a 7a 24          J...Zl:...T.)jz$ 
+ b0 72 3e f6 5a 93 95 ea 37 0d 70 3c 2f e5 02 9a          .r>.Z...7.p</... 
+ 5a 0f 62 cb 35 d1 9a 0e fe 69 27 db db 2a e9 1a          Z.b.5....i'..*.. 
+ c4 24 8e 8c 3d 45 0b 0c e7 09 44 4d 26 4e fc 7f          .$..=E....DM&N. 
+ 80 30 94 0b 2e e1 e1 35 0d a2 db 10 86 35 e7 33          .0.....5.....5.3 
+ 09 d3 be 57 12 f6 5a c8 c4 89 15 5f 03 99 24 05          ...W..Z...._..$. 
+ 7a e7 65 f7 0c 65 67 62 f3 15 fc 0b 26 24 dc db          z.e..egb....&$.. 
+ cd 7e 29 5d 3d b1 b1 9a bf c8 c2 64 06 53 f4 3f          .~)]=......d.S.? 
+ 8d ed 02 a1 a1 f8 8b 80 56 f9 7d 99 a2 b7 a4 2e          ........V.}..... 
+ 43 8c fd 7f 1e 1b ff ac d5 d0 29 22 7d cd ed ed          C........)"}... 
+ 1d 14 fe 90 42 4b 61 6b 41 84 60 4a 53 57 1d 7f          ....BKakA.`JSW. 
+ 76 7f ba 46 12 90 4b f2 4e 28 78 78 00 5e b6 c0          v.F..K.N(xx.^.. 
+ c9 7f 0d c0 b0 da 50 e8 2b ad 68 95 f0 2c 13 2e          .....P.+.h..,.. 
+ 41 ae 43 59 be 8a 9f ba 22 8b 6f 99 9f f5 e7 90          A.CY....".o..... 
+ 06 d9 06 d0 db 6e 7c 9c e1 85 73 eb 71 14 c6 d6          .....n|...s.q... 
+ 88 fa 4d 99 ee 93 dd fd 9f d3 6f 8d ac 02 93 c8          ..M.......o..... 
+ ab 92 20 22 67 75 ed c1 8e 70 e2 ac 1d e0 48 6c          .. "gu...p....Hl 
+ 27 fd bc e1 c0 a0 4f b6 62 2d ab c6 72 6f 8b e1          '.....O.b-..ro.. 
+ a3 2c cb 27 4e b5 e1 df e9 ef 49 59 6f a6 f1 5d          .,.'N.....IYo..] 
+ 50 98 27 5d 1b 92 7d 86 4a 5e 9f 45 57 57 6a 75          P.']..}.J^.EWWju 
+ 4f fe 20 07 35 51 9f eb 17 cc 4d a9 b3 2f 0a 78          O. .5Q....M../.x 
+ e4 72 70 50 c5 de 1f 94 75 26 62 de f9 92 19 a8          .rpP....u&b..... 
+ 21 11 0f 0e f2 ac 47 67 7d cb 4d 09 9a 1f 8c 9d          !.....Gg}.M..... 
+ 5d 6d 3f e4 92 26 07 03 65 9b 46 b8 92 59 0a 59          ]m?..&..e.F..Y.Y 
+ 4e 63 b0 4c 2b f0 1b ee c0 a6 7d e4 c9 17 58 bd          Nc.L+.....}...X. 
+ 12 57 24 6e a9 55 bf 34 e2 04 5a 39 7f 37 46 c6          .W$n.U.4..Z97F. 
+ 65 79 f2 a9 a1 bf df 5c cd 9e be e5 78 bf 0d 1d          ey.....\....x... 
+ 53 4d dd 51 08 e0 9d 28 f2 37 f8 90 b3 b1 ac 82          SM.Q...(.7...... 
+ b6 ba e0 72 b2 c7 07 81 7e 43 bd 5e 7f eb 69 0a          ...r....~C.^.i. 
+ e8 c5 c3 b8 32 ba ea 2f 14 3b 26 c2 85 7e 8e cd          ....2../.;&..~.. 
+ 70 1a 24 97 09 ef ef 4d c6 3c 3b a2 b6 d1 e7 dd          p.$....M.<;..... 
+ 99 6e b2 1e fb cc 37 5f 04 8e 35 4b fd d6 08 00          .n....7_..5K.... 
+ 66 81 2e 27 d3 07 50 9a a5 50 dd 9c 25 49 0e 3d          f..'..P..P..%I.= 
+ 27 b6 45 7f 26 63 4f 7d 43 4f d5 03 83 1f f2 a0          '.E&cO}CO...... 
+ 2e 90 97 b6 5a aa 26 ac 80 f1 a2 a8 c5 46 43 77          ....Z.&......FCw 
+ 4d 12 82 a8 f5 49 e7 93 ae 31 bb 28 3f 1d 56 54          M....I...1.(?.VT 
+ dc a7 bc 8c ce 64 6f 0b fa ea 45 9e 67 be 6e 2f          .....do...E.g.n/ 
+ f7 5f 2f 55 26 77 a5 2a 0f d1 50 3d 73 ec 4b 60          ._/U&w.*..P=s.K` 
+ 91 2b 0b ce 1c 06 46 b7 36 7c 5b 4e 4b 9c d8 92          .+....F.6|[NK... 
+ 49 cb 35 5a a5 4c f4 45 21 18 34 74 62 64 40 c1          I.5Z.L.E!.4tbd@. 
+ 25 33 a1 39 38 d7 58 62 07 af fb 9c 3e c4 1a de          %3.98.Xb....>... 
+ 33 ea 22 48 4a 29 ea 9d f5 f7 ed 96 27 31 ea e1          3."HJ)......'1.. 
+ 84 11 3b e7 3c 5f 74 da c1 d7 4d 3c a8 ad 4e 5a          ..;.<_t...M<..NZ 
+ df c9 c8 25 cc 07 b0 67 fd 18 1a 4b 32 5e 03 8f          ...%...g...K2^.. 
+ ca 4b 03 59 b4 ef aa 72 ba 3d 24 70 b9 c8 1a 4e          .K.Y...r.=$p...N 
+ 8a 94 7a 40 40 d2 db 00 ef 78 76 25 eb ae 8d 41          ..z@@....xv%...A 
+ 45 ef 12 2c 7f c4 9f 0f 52 7a d2 43 b0 b2 c8 3e          E..,...Rz.C...> 
+ 17 ee d2 eb 83 a7 8d c4 60 66 64 84 64 97 85 93          ........`fd.d... 
+ f9 e7 7c 81 a3 88 ea 4c d9 5d ce 5b 51 ad 25 97          ..|....L.].[Q.%. 
+ e9 f7 94 d9 32 13 22 82 70 74 fa ca 65 26 e1 46          ....2.".pt..e&.F 
+ 44 03 d4 0a 4c 13 72 b2 04 62 a5 bc 55 cc db 4f          D...L.r..b..U..O 
+ 7a e0 aa 82 b4 5e 61 b6 4a e9 b6 d0 e4 57 f8 7b          z....^a.J....W.{ 
+ bc 97 65 02 b8 f5 e9 0a 33 86 36 cd 5e 49 75 30          ..e.....3.6.^Iu0 
+ 54 dc 19 48 93 6a 27 e4 a2 18 28 b3 44 af 2c 30          T..H.j'...(.D.,0 
+ 6d b4 b0 b7 c9 e2 13 09 8f 2f 91 ad 6d 65 67 20          m......../..meg  
+ f4 46 22 2b 94 d1 c7 56 4c d8 a2 78 b8 c5 b1 28          .F"+...VL..x...( 
+ d6 3e 11 05 63 43 12 90 ac 8b c6 84 da 8a 70 4f          .>..cC........pO 
+ 0f f5 6e af 99 ef d0 c0 06 fd 5f 46 97 1e 02 e3          ..n......._F.... 
+ e2 9a ae fc 69 53 a1 bf e2 9e b6 d0 d2 bc c8 21          ....iS.........! 
+ 2a e6 a4 f3 53 e3 0c 4a 94 89 2e 27 c8 db 2d a4          *...S..J...'..-. 
+ 99 fb 70 d4 27 bb 38 a5 c9 1d 44 8f 62 5a 12 45          ..p.'.8...D.bZ.E 
+ 91 1c 58 90 2e 42 c2 4f 8d b6 5f 57 07 98 20 3a          ..X..B.O.._W.. : 
+ 49 b1 90 13 7f 5b 9b 25 29 be 92 db 07 57 2d ae          I...[.%)....W-. 
+ 07 24 e6 a7 89 3e 04 02 0b 28 b0 f4 74 04 34 bc          .$...>...(..t.4. 
+ c9 e2 5d c3 62 56 06 52 87 3a 1e 7f e8 1f 0e 42          ..].bV.R.:....B 
+ c6 16 5e 2d                                              ..^- 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10921
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 47216
+
+IP Header
+ 45 00 00 41 2a a9 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 2d b8 70                                  .....-.p 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 06 6a 92 89 9c 18 f5          ....Y.p...j..... 
+ 4b 88 0c 15 ba 6a 05 17 a8 c1 2a bd de 28 74 a7          K....j....*..(t. 
+ f9 9e 12 62 be                                           ...b. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10922
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48529
+
+IP Header
+ 45 00 05 62 2a aa 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 4e bd 91                                  .....N.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 07 7d a8 10 11 86 fd          ....Y.p...}..... 
+ 6c 7f 18 ab 42 75 e9 1c aa ab f2 85 ca 35 ab 8e          l..Bu.......5.. 
+ a8 de c8 99 6d f8 1b e7 e5 88 af 43 7c 58 c6 2e          ....m......C|X.. 
+ 63 19 fd ce 72 8b 9b fa d6 10 8b f4 f2 97 50 e7          c...r.........P. 
+ 01 eb 4d f6 e9 21 76 02 f2 a9 a2 e9 e9 0d 47 23          ..M..!v.......G# 
+ bb ff 9a d2 ca be 9a d0 7c 24 25 d3 75 1d b9 be          ........|$%.u... 
+ 0b 10 9c 0b 56 0d 0c 22 8a f1 bb 89 d6 aa 20 4c          ....V.."...... L 
+ 5e d8 29 56 a4 46 b7 72 0b b7 28 86 39 a6 e9 da          ^.)V.F.r..(.9... 
+ 90 04 6a 17 69 0b 2e 4a 0d ba 8c ff 58 29 97 60          ..j.i..J....X).` 
+ e9 1c c6 13 95 8b d3 a3 60 86 10 92 3b 87 c5 77          ........`...;..w 
+ 86 78 bb 9c 0a e0 59 93 b2 d4 45 99 14 be f2 4d          .x....Y...E....M 
+ c3 f2 a5 c2 39 4b 40 80 a3 e1 61 b4 f8 b5 4c 3f          ....9K@...a...L? 
+ 41 8c a0 a4 2b 8f 85 51 c4 7c b0 04 04 c1 fc 05          A...+..Q.|...... 
+ b4 9e 4b a2 47 e5 75 38 ee c6 ab ca 45 4d 94 e7          ..K.G.u8....EM.. 
+ fe ed 38 99 f8 60 4c cc f9 c6 ab 6f 8d 19 71 52          ..8..`L....o..qR 
+ ba b1 7a c7 45 c5 40 87 35 ba cb 67 9a 19 3e 96          ..z.E.@.5..g..>. 
+ ca c0 a3 2a 2b 5f a9 10 da e6 fb b9 90 6c 1c 8e          ...*+_.......l.. 
+ a2 b0 c9 3a 00 4b 9a 9f 60 24 a5 d3 a6 95 ca 8b          ...:.K..`$...... 
+ 9f eb 36 e5 12 db 15 b7 41 c3 5e 8e 1c 92 14 23          ..6.....A.^....# 
+ f2 d9 dc b3 74 d4 5c a9 7a 4e 5b b7 cb b4 9e b1          ....t.\.zN[..... 
+ 6a 2e 1e ea 2c 87 cc 30 80 e8 b4 b6 d9 25 e7 f8          j...,..0.....%.. 
+ 47 2a f2 e6 aa 20 a3 64 0e e7 78 1a b7 e1 37 ee          G*... .d..x...7. 
+ 4f b5 36 8d ec 0c 0b 7f 1b 62 13 5b 06 d2 7b 71          O.6.....b.[..{q 
+ 38 21 df 84 cb 20 37 ae 02 8b 86 13 05 c6 49 13          8!... 7.......I. 
+ 7d da 2e 56 fa 06 83 30 b1 23 a3 07 6d 31 33 27          }..V...0.#..m13' 
+ 4f 2e 9f d4 f1 4c 12 dd 5c dd f8 2c 68 7b 35 90          O....L..\..,h{5. 
+ 41 17 39 50 b2 03 62 6e cb 62 70 c0 c7 d4 ad 4d          A.9P..bn.bp....M 
+ 65 26 6a ff 73 02 2b d9 49 50 dd 1c 7b b3 76 93          e&j.s.+.IP..{.v. 
+ fe a2 1e 41 55 b2 70 f0 2e 74 87 7a 00 5c 71 02          ...AU.p..t.z.\q. 
+ 77 9e 76 80 27 ed 39 7f 4c 7e 4a 67 6d 20 da c9          w.v.'.9L~Jgm .. 
+ 3e b8 c2 47 52 f4 1e 61 08 4c f1 35 f4 61 02 c3          >..GR..a.L.5.a.. 
+ dd d6 b2 21 18 31 b1 c3 69 e5 50 6d ca bc 9b 33          ...!.1..i.Pm...3 
+ ff 1e 97 3e cc 33 19 e0 3c b8 df 1a 0c e1 64 f7          ...>.3..<.....d. 
+ b6 f8 71 b0 50 16 07 ce 85 da 36 c4 0b b8 42 3f          ..q.P.....6...B? 
+ 11 e1 e2 dd 14 7e 15 1c 44 db ae 2c 7c c8 62 87          .....~..D..,|.b. 
+ 57 36 a2 3c 90 ab 05 76 37 84 5d ed 12 63 ff 99          W6.<...v7.]..c.. 
+ 2f 20 82 5b 08 48 13 d6 b3 5e fd b9 bc 1c c5 9e          / .[.H...^...... 
+ 2a c6 47 77 31 88 37 bd b7 6e 58 6e 18 3b 11 b3          *.Gw1.7..nXn.;.. 
+ 76 45 9a 0e ff 06 7f 96 2c ef 8d bd 89 56 35 f1          vE.....,....V5. 
+ 95 c8 e8 e5 87 d5 3e 68 b1 30 16 a9 d2 9e e6 e8          ......>h.0...... 
+ 70 de 2c 68 30 e8 3a c3 36 0f 4b cb 53 e1 7d d0          p.,h0.:.6.K.S.}. 
+ 97 01 7f 4c f0 92 fe 44 11 c4 b7 88 20 52 46 dc          ..L...D.... RF. 
+ 3e b6 d4 ba e8 af 64 3a f2 90 95 09 f3 07 5e 8a          >.....d:......^. 
+ 1b 38 72 82 34 f8 84 ab 9c 92 8a f3 82 b1 08 00          .8r.4........... 
+ 11 d5 77 34 be 0f fd 2a dc 7e a0 71 15 8d 80 62          ..w4...*.~.q...b 
+ 96 9e 56 85 7c e9 fe 0a 55 aa 97 db 5b c4 3c c6          ..V.|...U...[.<. 
+ 5a 27 23 57 b6 c7 18 c2 1c 62 5c b1 9f 83 97 0d          Z'#W.....b\..... 
+ 96 5c 09 38 6d bc 42 35 5d 74 e9 03 34 50 06 ab          .\.8m.B5]t..4P.. 
+ a1 f3 62 43 23 b1 a2 b5 fd d6 ec ab b4 1c b5 c3          ..bC#........... 
+ 47 d0 f5 f4 0f 8b 65 a0 68 9e d7 b5 f9 8c 0d ed          G.....e.h....... 
+ dd 06 85 f9 0f 39 66 98 ea 94 96 a7 b6 7a cf 7f          .....9f......z. 
+ db bc 3c bf f5 88 7c 7f 63 f9 a3 0b 88 51 44 9d          ..<...|c....QD. 
+ ad fc dd ae 83 2f c7 d1 52 79 f6 ac 29 a4 68 10          ...../..Ry..).h. 
+ d4 ce ee de 3f c2 e3 e4 12 54 58 79 77 fa 0f 20          ....?....TXyw..  
+ 3e f0 58 0a 7c dc c8 e4 3e 24 30 ef 37 41 f2 de          >.X.|...>$0.7A.. 
+ 81 a5 61 5f ad f6 06 06 57 84 e3 05 ad 65 ee 06          ..a_....W....e.. 
+ 5a 74 f3 b7 6c a9 e7 96 19 09 f5 70 28 5c 0f e2          Zt..l......p(\.. 
+ 8b 78 e0 ac 6e ce 03 84 6d 42 c6 5b 96 df 93 17          .x..n...mB.[.... 
+ 2f 40 b6 01 79 b4 ac 4f 5e d4 5c c8 12 47 1f 10          /@..y..O^.\..G.. 
+ 40 9c 96 69 44 a0 eb 60 1a 96 b9 be 86 cf 70 db          @..iD..`......p. 
+ 56 fb f3 b2 43 97 4e f1 31 90 e0 74 6e 79 5f 87          V...C.N.1..tny_. 
+ b1 9b cb a2 17 66 8e 48 82 d3 77 71 17 f9 93 bb          .....f.H..wq.... 
+ 4e 2b 67 30 88 68 02 33 f6 ff 10 a5 dd 7b 97 e0          N+g0.h.3.....{.. 
+ 0a 01 df 05 b3 d6 23 27 4d 47 81 91 00 42 47 ed          ......#'MG...BG. 
+ ae 85 45 cc 14 78 a6 7c 62 5d b8 df ae 9d dd 41          ..E..x.|b].....A 
+ 9b c9 94 a7 37 03 9a 00 74 9f eb c2 24 94 cc 13          ....7...t...$... 
+ 1b 72 21 b2 da 2d 5e 3f 13 2f b4 f7 76 91 d1 c2          .r!..-^?./..v... 
+ f3 a9 62 44 f1 5c 25 e1 83 00 b9 56 84 c3 c9 83          ..bD.\%....V.... 
+ 18 75 31 1c 2a 75 a0 db 46 65 bc 91 36 3a 36 40          .u1.*u..Fe..6:6@ 
+ 6e af 7d b4 c5 b6 93 2c 84 d6 b7 2e 7c 91 a5 70          n.}....,....|..p 
+ 5b 8d 7c a5 12 d8 2f 9f 5d 76 0e 63 b3 7e 78 2e          [.|.../.]v.c.~x. 
+ d1 32 ef c5 2d e7 08 69 e4 65 97 f5 61 3b b8 17          .2..-..i.e..a;.. 
+ 49 7c 9f 65 07 9b 14 cd bc 3a 99 b9 8f 65 9a 97          I|.e.....:...e.. 
+ e0 61 2e 4e 10 3b 68 17 f9 26 d0 97 2c fb e8 02          .a.N.;h..&..,... 
+ 6e 00 59 fb 0a 03 04 69 ac 0b 98 04 4e 95 20 78          n.Y....i....N. x 
+ f3 27 0a f7 12 cd ba dd a6 bb 8d f3 1d 97 fd 70          .'.............p 
+ c2 20 b3 e0 cf 48 27 fa 89 91 b4 28 a9 6b ce 39          . ...H'....(.k.9 
+ b1 8a f1 44 53 64 10 77 7d f1 e7 ba d2 a1 5f 17          ...DSd.w}....._. 
+ 28 df ee 47 51 36 13 3e f6 47 ee 27 61 cd a8 fb          (..GQ6.>.G.'a... 
+ 9a 76 4a 59 f3 ed 75 ba 4a 84 66 0e 81 fe 6f 5c          .vJY..u.J.f...o\ 
+ 3e a7 ba 1c 5c 76 f1 18 78 76 d3 3b 16 15 8c ef          >...\v..xv.;.... 
+ 9e b8 49 47 cf 8a 8f 6a a3 da 62 66 56 2e 5b 31          ..IG...j..bfV.[1 
+ c1 b9 ed ce 80 ea 65 f8 9a 25 a2 f6 e0 49 36 e6          ......e..%...I6. 
+ 85 78 24 fa 80 9f 52 c5 9f a5 e7 7b 61 d2 7a 9f          .x$...R....{a.z. 
+ 64 34 c2 68 3a 0f                                        d4.h:. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 308 Bytes(Size of Packet)
+ |-Identification : 10923
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 288
+ |-UDP Checksum : 47459
+
+IP Header
+ 45 00 01 34 2a ab 00 00 80 11 00 00 c0 a8 01 69          E..4*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 01 20 b9 63                                  ..... .c 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 08 ed 77 ff 06 f1 0b          ....Y.p....w.... 
+ e3 9f a2 fa ff 9e 02 4a 7d 32 a0 cc 1c 28 6e 3c          .......J}2...(n< 
+ 5c 2b 2f 24 fe d7 ec ff b7 54 1a 16 d5 a8 0c 94          \+/$.....T...... 
+ 80 b5 a8 a5 32 65 c4 2d 0a b3 5b 56 1c e2 50 c1          ....2e.-..[V..P. 
+ 70 1c 53 aa 71 37 3b 3d fd f3 e8 bb 9c c3 3c ff          p.S.q7;=......<. 
+ 6e 77 0a 01 9e e7 82 75 9e 7f 09 c7 d2 d0 f2 f6          nw.....u....... 
+ 99 30 0c 41 b2 2f dc 96 66 fd db b6 82 5f da 8d          .0.A./..f...._.. 
+ c6 b9 d0 61 3a e7 1f 7d 02 55 15 c6 78 13 b8 97          ...a:..}.U..x... 
+ 5d bd a0 9e e6 0f f7 c5 f7 40 2c 86 60 95 99 12          ]........@,.`... 
+ 0e 84 89 9d f6 8f 75 53 5b a2 f8 cd b3 44 c3 86          ......uS[....D.. 
+ 7a 37 56 d5 48 b1 08 fb 23 d6 2f 15 07 8e 95 da          z7V.H...#./..... 
+ 26 33 ff 87 88 55 a8 d6 ab 25 45 82 dd fd c6 2a          &3...U...%E....* 
+ ed f3 99 1b ac c1 d2 17 b1 12 26 f0 26 06 64 38          ..........&.&.d8 
+ 19 c6 86 14 df c1 70 b9 16 17 e0 3c 2b f4 b1 d3          ......p....<+... 
+ a8 38 17 5d 71 c4 ea 3b 17 f2 dd 0a ae 24 51 30          .8.]q..;.....$Q0 
+ 07 b4 cb 26 93 34 57 28 aa dc a0 82 62 d8 c7 f4          ...&.4W(....b... 
+ 8a be df a2 68 e5 15 1f 45 ca f5 0c a0 e2 cb b0          ....h...E....... 
+ 84 08 8e 8b b8 08 bd a1                                  ........ 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1328 Bytes(Size of Packet)
+ |-Identification : 10924
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1308
+ |-UDP Checksum : 48479
+
+IP Header
+ 45 00 05 30 2a ac 00 00 80 11 00 00 c0 a8 01 69          E..0*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 1c bd 5f                                  ......._ 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 09 22 3d c8 db 15 b9          ....Y.p..."=.... 
+ 41 1b 1c 1b 48 9f 01 41 ff f7 20 a1 70 d7 45 32          A...H..A.. .p.E2 
+ 3e 3b 7e 0b 32 ee d8 91 6a 66 9f b7 26 e6 66 66          >;~.2...jf..&.ff 
+ d7 ae d6 4f 43 78 db c0 9c 4b 6f 7a 91 69 b9 6f          ...OCx...Koz.i.o 
+ 44 02 66 7a ff 99 96 b1 8e 64 51 84 90 e4 82 3a          D.fz.....dQ....: 
+ dc fc fa a2 00 78 14 7b c4 1a 2d 3c d1 ae 00 87          .....x.{..-<.... 
+ 27 59 a5 5b 38 98 a3 9e 7a d7 01 ec a1 18 e2 a1          'Y.[8...z....... 
+ 27 28 9b 1b d8 89 95 a6 65 5c 56 41 cb 49 ba dc          '(......e\VA.I.. 
+ b2 b0 75 15 40 06 bf 05 79 dd d3 78 e2 16 a8 f8          ..u.@...y..x.... 
+ c5 79 65 73 5c f5 53 00 f9 ea 8b ca 27 c2 5a cc          .yes\.S.....'.Z. 
+ d2 b1 dc 7b 21 81 f1 fe 2a 5d b2 03 25 9f 59 be          ...{!...*]..%.Y. 
+ 05 48 5f d9 55 ff f2 f5 8c 6a 8d df 11 65 f4 85          .H_.U....j...e.. 
+ 70 c5 7d e6 0a 87 22 ab f3 3b fd ae f5 fa fa fd          p.}..."..;...... 
+ 8d 4d 76 10 58 3e 1d 77 07 07 27 67 2c d5 10 0d          .Mv.X>.w..'g,... 
+ e8 47 5c a3 69 85 be f5 95 af 98 86 42 06 31 53          .G\.i.......B.1S 
+ 5f d9 aa 05 9a fa 32 aa 74 e6 eb 34 ea 01 3f 44          _.....2.t..4..?D 
+ 30 7d 2f f0 6a 50 91 ac f8 e4 84 9d bb 5a d8 95          0}/.jP.......Z.. 
+ 9f d2 20 1e 1e 1b dd 85 12 5d ff 01 f9 26 14 7f          .. ......]...&. 
+ a9 3e 18 ae 66 e8 2a 35 27 dc 6f 7b 1f 0c 71 e4          .>..f.*5'.o{..q. 
+ 2d a6 0f 90 86 b2 b2 22 6d 27 54 62 00 a2 9f 88          -......"m'Tb.... 
+ ff 65 60 f4 e9 a0 f4 9a 2b e3 ef 65 c8 d7 ed b2          .e`.....+..e.... 
+ 58 c1 3a 36 fe ab 57 93 25 50 5c 00 d8 81 ad f5          X.:6..W.%P\..... 
+ 6e df 82 47 22 58 16 5f 34 74 a9 64 9a 97 e0 41          n..G"X._4t.d...A 
+ e4 c6 88 81 a5 a8 e7 ab 5f 47 40 19 10 ad db 52          ........_G@....R 
+ 7d f4 82 c7 41 e5 4b f8 36 db b7 ab 22 de d8 28          }...A.K.6..."..( 
+ 3e 4b a0 89 2f 76 9e eb d3 55 04 79 ce 42 42 02          >K../v...U.y.BB. 
+ a8 eb a5 82 10 e6 c7 77 c0 15 02 ad 8e c5 ec 2f          .......w......./ 
+ 36 30 56 f7 69 dd b3 40 6c 86 80 0a 99 3f 53 64          60V.i..@l....?Sd 
+ a1 0c 6b 57 85 4e b4 6e 57 16 1f 3a 15 e6 85 eb          ..kW.N.nW..:.... 
+ f3 0b 8f 71 87 57 e7 5c 13 2b f0 1f f6 17 5b cf          ...q.W.\.+....[. 
+ 71 c1 83 45 cc b3 80 53 8a 7b e0 d7 ab 48 d6 d8          q..E...S.{...H.. 
+ 94 d7 2f 39 fb 82 c5 26 af cc 31 83 eb f0 46 e6          ../9...&..1...F. 
+ 45 f9 4b d8 09 07 23 60 53 65 e1 5c 07 85 2e 73          E.K...#`Se.\...s 
+ 9b 85 dc d5 55 71 f3 b0 47 c4 83 2b fa 72 2b 39          ....Uq..G..+.r+9 
+ ff e7 68 58 5b 60 15 57 1d d1 78 9b d2 21 30 46          ..hX[`.W..x..!0F 
+ 0b 36 b0 d7 1f c0 7a ff 1f 26 5b 40 cb ce 4e 2c          .6....z..&[@..N, 
+ be 2a b8 16 1f c2 e9 81 21 f8 ae 6e 10 d8 f0 9e          .*......!..n.... 
+ a9 07 35 e9 8c 55 83 eb 95 54 29 69 99 b4 08 e7          ..5..U...T)i.... 
+ ff 27 58 61 d8 c2 20 f4 cd 67 c9 ce 07 ba 91 3d          .'Xa.. ..g.....= 
+ 1b 14 de 61 1f cd 76 6d f8 6d b6 0f 81 0b b8 cf          ...a..vm.m...... 
+ d1 96 a5 8a 69 72 1b 38 71 25 75 ef 67 cc a9 44          ....ir.8q%u.g..D 
+ f6 d2 ee a1 bc 96 bb dc 6c 3a fe 04 a2 ee 42 91          ........l:....B. 
+ f6 c4 bc dc 62 91 46 60 bc 89 85 00 33 b0 1b 42          ....b.F`....3..B 
+ 91 6c d9 a1 97 2d 15 ab e5 ae 89 f0 80 b9 d0 26          .l...-.........& 
+ 64 9a 06 b3 c0 0a af be 08 5e 4d 7e b9 0c 05 0d          d........^M~.... 
+ 29 f3 90 b7 73 fa 9c 93 e5 d6 e7 5e ac 1b e1 87          )...s......^.... 
+ 92 9a 2c 64 7b ca 49 7d 26 69 7e 26 99 da 3a a7          ..,d{.I}&i~&..:. 
+ bc 1e 69 df 51 04 04 48 2c 46 4e 74 8e fc cb 19          ..i.Q..H,FNt.... 
+ 42 a1 ce 58 c2 aa 82 2c 2f e7 55 72 fb 2a a0 ad          B..X...,/.Ur.*.. 
+ e1 49 30 1b a3 b1 3c aa 66 87 fa 6e 2b 3c cd 5d          .I0...<.f..n+<.] 
+ a8 a7 18 43 d6 d7 43 a9 e2 a4 31 64 39 49 da 53          ...C..C...1d9I.S 
+ e9 23 61 a8 be 8e 49 de 79 8a 3d e7 f7 45 aa a8          .#a...I.y.=..E.. 
+ 52 86 08 a5 35 ba 3c 42 5b 9e bd b5 c6 7b 39 b9          R...5.<B[....{9. 
+ 4b 91 2f 0e 06 68 b2 39 98 37 e4 6e 31 e0 e3 91          K./..h.9.7.n1... 
+ 63 a1 e9 89 70 db 62 0a 8c 7a 7f e9 20 3a de 3d          c...p.b..z. :.= 
+ 71 09 bc ca d3 28 22 ad 65 06 3f 89 af 19 e3 2d          q....(".e.?....- 
+ af 7f f0 50 db db e8 78 41 38 66 4b 94 f9 21 e5          ..P...xA8fK..!. 
+ ad c3 0a 62 ff 24 85 46 7c d8 b9 be 88 af d1 ec          ...b.$.F|....... 
+ e3 97 9a 5b 80 64 87 25 7c ec be 88 1e 77 23 fb          ...[.d.%|....w#. 
+ 07 37 5f 5b a9 e6 00 9a 35 34 e8 0e b1 66 05 22          .7_[....54...f." 
+ 76 1d dc 7b 61 69 78 08 0f eb 04 71 7f 66 fe 6b          v..{aix....qf.k 
+ 27 b2 75 c5 d8 61 69 2d 4d 0b 7f 2a 07 08 bf f4          '.u..ai-M.*.... 
+ bb b8 b6 0e 48 32 1d c6 d6 f1 28 5c 0a 90 d6 88          ....H2....(\.... 
+ 0d 48 85 23 51 0a 6a 40 87 8d 39 ba 4d 55 30 4b          .H.#Q.j@..9.MU0K 
+ fa 5b de ae 88 12 0d ae 9a ec 68 43 f5 d5 93 68          .[........hC...h 
+ 37 c0 61 ac a3 36 40 25 f1 54 52 95 6f 6c 97 92          7.a..6@%.TR.ol.. 
+ fe 2c e4 73 fc d7 78 10 cc b0 e5 24 91 46 19 d9          .,.s..x....$.F.. 
+ a3 6b 0b b5 f6 c7 e3 1e 06 0f 85 66 11 1d ae c0          .k.........f.... 
+ a2 75 55 a3 dc 15 a7 9a 1b ab 0b 7d 22 12 89 de          .uU........}"... 
+ c0 cd a7 d7 32 0e 82 95 36 7e c5 c7 ed 96 11 80          ....2...6~...... 
+ 10 18 7c c3 3c 1c 42 99 15 b8 23 64 51 f4 37 0a          ..|.<.B...#dQ.7. 
+ 38 d6 2c 57 82 08 40 d1 1c 40 76 52 f1 1a 7c 9b          8.,W..@..@vR..|. 
+ 8e 45 2f ea 0a 02 db a5 40 77 0c fc 87 13 01 ca          .E/.....@w...... 
+ 5f 4d a7 60 41 41 00 2f 7e db 63 09 4c b3 1a f3          _M.`AA./~.c.L... 
+ 18 c3 7e 8c 98 79 48 73 05 4e 6c 20 8d 16 a1 a3          ..~..yHs.Nl .... 
+ 26 3a 28 5e 3b 93 e7 49 58 40 9a cb fe 94 d3 94          &:(^;..IX@...... 
+ db 85 64 96 6e 73 6d 9b 5e ce f5 13 d1 e9 cc 92          ..d.nsm.^....... 
+ 8a df 93 76 c9 2e 63 05 00 88 62 d3 b7 5c 6f ba          ...v..c...b..\o. 
+ 94 8f fa 96 f0 b6 21 f6 36 04 30 89 0e 14 7c 81          ......!.6.0...|. 
+ cc b4 48 e4 10 7e 4c 23 39 54 84 d5 fd 18 86 d6          ..H..~L#9T...... 
+ ea 0d 49 c3 c6 e7 22 68 00 a4 ca e3 dd f7 fa 20          ..I..."h.......  
+ 2a 5d 74 1a                                              *]t. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 53 Bytes(Size of Packet)
+ |-Identification : 10925
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 33
+ |-UDP Checksum : 47204
+
+IP Header
+ 45 00 00 35 2a ad 00 00 80 11 00 00 c0 a8 01 69          E..5*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 21 b8 64                                  .....!.d 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0a 34 3c 53 45 22 1c          ....Y.p...4<SE". 
+ 54 10 88 f5 b3 5b 8f fc 0b                               T....[... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 74 Bytes(Size of Packet)
+ |-Identification : 10926
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 54
+ |-UDP Checksum : 47225
+
+IP Header
+ 45 00 00 4a 2a ae 00 00 80 11 00 00 c0 a8 01 69          E..J*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 36 b8 79                                  .....6.y 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0b 69 6a e2 28 e6 b2          ....Y.p...ij.(.. 
+ 08 20 1f 87 89 b4 f5 c2 95 13 a7 c1 0c 56 b8 bc          . ...........V.. 
+ 5d 94 f8 53 72 1e 15 50 32 8b fd 35 3e c0                ]..Sr..P2..5>. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 65 Bytes(Size of Packet)
+ |-Identification : 10927
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 45
+ |-UDP Checksum : 47216
+
+IP Header
+ 45 00 00 41 2a af 00 00 80 11 00 00 c0 a8 01 69          E..A*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 2d b8 70                                  .....-.p 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0c bd 8c f0 61 73 2d          ....Y.p......as- 
+ e1 9e 72 49 69 cd 6e 45 d2 05 20 11 33 1a 96 24          ..rIi.nE.. .3..$ 
+ fe 56 9f 12 44                                           .V..D 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1215 Bytes(Size of Packet)
+ |-Identification : 10928
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1195
+ |-UDP Checksum : 48366
+
+IP Header
+ 45 00 04 bf 2a b0 00 00 80 11 00 00 c0 a8 01 69          E...*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 04 ab bc ee                                  ........ 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0d cc 5c 23 04 96 77          ....Y.p....\#..w 
+ 46 db 6b 44 6f 44 d4 25 3a 98 43 c2 85 d8 a1 0e          F.kDoD.%:.C..... 
+ 05 94 c0 4d f5 38 93 b6 d1 c9 f7 0e 06 a4 65 bc          ...M.8........e. 
+ 19 c2 4f 31 34 f7 93 6d 57 28 d6 0b f2 8d 4a 9d          ..O14..mW(....J. 
+ 6f 1b 9e 9d de 7c db 3b ad 49 11 ad 9f 8e 39 25          o....|.;.I....9% 
+ c3 df 6e fc f6 59 a7 b8 c7 9c 55 9a a3 05 70 55          ..n..Y....U...pU 
+ 95 f5 e7 13 b1 31 45 a8 2c 7a 5c 3e 4e b2 bc ca          .....1E.,z\>N... 
+ 81 a0 7e 3d db 67 7c de f8 bc 55 4d b5 66 12 c4          ..~=.g|...UM.f.. 
+ 0a f9 d9 47 b0 3d 5e d4 45 a4 d2 e4 27 d0 ef 6f          ...G.=^.E...'..o 
+ ed 37 c2 6d f9 21 94 70 7e 0e d0 1a 4c ac 67 53          .7.m.!.p~...L.gS 
+ da 96 65 78 1c 97 fe 63 35 90 67 4a 1d 06 3a 23          ..ex...c5.gJ..:# 
+ 7f ae 18 d9 74 4a 52 f4 5c f6 b7 02 4c 3a ff cf          ...tJR.\...L:.. 
+ e7 06 7d ed 53 8d c5 cc 16 db 86 2f a2 3e ab 12          ..}.S....../.>.. 
+ 41 a8 e4 25 99 6e 63 c8 d0 bf 79 67 51 89 54 4d          A..%.nc...ygQ.TM 
+ cc 63 40 d0 c9 11 75 40 31 ae d0 e6 ff 31 cc b8          .c@...u@1....1.. 
+ 98 b7 01 04 d2 d5 60 06 b7 43 63 fc 11 cb f1 25          ......`..Cc....% 
+ 51 b4 7c bd bf 85 93 d9 6b 50 79 54 2c 6f 20 6e          Q.|.....kPyT,o n 
+ d7 d7 e4 16 75 18 41 3e df bd 80 bf 63 35 a6 1a          ....u.A>....c5.. 
+ 8d 69 a7 e3 60 51 99 e1 f8 af a7 cd 09 6f b8 4d          .i..`Q.......o.M 
+ 29 8a ce 52 10 74 41 6b 0e 1e 77 21 16 b0 9b e9          )..R.tAk..w!.... 
+ db 4b 97 39 6e d0 67 43 3a 0b 5c 99 0f 0f 87 1c          .K.9n.gC:.\..... 
+ b3 16 4b 63 02 f2 ed 06 be 1f 5c fc 1d 75 8b 11          ..Kc......\..u.. 
+ db 02 04 22 9a 38 b3 e2 2c af ac f4 d5 d6 2a 9a          ...".8..,.....*. 
+ 06 17 b7 eb 02 a6 ed 75 ef cd 1e 6b e6 ac 30 40          .......u...k..0@ 
+ 39 7a 99 db f7 af bd 10 c4 5a b6 7f 8c e9 f9 95          9z.......Z..... 
+ 67 6f 33 90 43 6f 84 6d 0c 62 4d 22 a3 25 16 79          go3.Co.m.bM".%.y 
+ fc f3 4e fc 90 31 50 5c a5 52 3b bd 4a 63 8d 1d          ..N..1P\.R;.Jc.. 
+ 5b ab d5 2c d2 88 c2 33 38 2c 0d b9 cf b2 ed 36          [..,...38,.....6 
+ f1 bd 3e 0b 8d 9b 08 2d f8 cc 01 51 4b f8 14 24          ..>....-...QK..$ 
+ 85 02 59 66 4c f7 4a 46 66 d9 de bb bf 11 1c 67          ..YfL.JFf......g 
+ 00 7c f4 f6 2d 0d a9 11 e8 e1 61 f3 1e 41 c7 a9          .|..-.....a..A.. 
+ 9e 87 4a 54 90 8d 0f 3f 5a 00 d2 4f ea 2a 59 24          ..JT...?Z..O.*Y$ 
+ 22 6a 64 7e 5c 37 97 a8 32 93 80 be cc 7f 32 3c          "jd~\7..2....2< 
+ fe f5 75 8d ac 05 6e c7 ec 50 e0 26 6e ba 86 8d          ..u...n..P.&n... 
+ 26 13 d5 75 7f 11 f2 5f 50 5b 25 a7 a2 ed a8 d2          &..u.._P[%..... 
+ 8d 32 64 fe c6 63 2d 76 9d e9 6a e1 e8 90 03 45          .2d..c-v..j....E 
+ 75 a6 4f 8c 74 c8 94 75 cf 23 a2 b1 14 eb 2c 03          u.O.t..u.#....,. 
+ fa 2b 6c 59 ff ae 74 8b 07 d6 94 eb 68 15 ef 5c          .+lY..t.....h..\ 
+ e4 b7 18 81 5a 56 75 db 99 0e 92 35 a1 89 ce 48          ....ZVu....5...H 
+ 9b 87 6f a2 7b d9 c1 84 6b 08 22 68 c8 04 03 60          ..o.{...k."h...` 
+ f0 f0 2a 2f 95 2d ba 24 6c 30 b6 ae 62 f1 ab 90          ..*/.-.$l0..b... 
+ ec aa 5e 23 25 c1 83 a5 e0 ee 2d b2 51 09 f1 17          ..^#%.....-.Q... 
+ c6 fc 16 9c e1 da e2 8d 5a 2d 63 b9 35 17 e5 71          ........Z-c.5..q 
+ 6f 6d a9 de 94 e4 33 c3 8c b1 e7 4b ef 19 c2 72          om....3....K...r 
+ 4e 2f 4e b3 b0 00 82 af ac 20 2f b2 f3 e4 3e ca          N/N...... /...>. 
+ e4 dc 32 bb 38 10 53 3c 75 96 6a fc eb 04 6f 2f          ..2.8.S<u.j...o/ 
+ 9a aa a3 ec 59 a6 e6 48 f1 d0 cb 1f a2 4b b2 40          ....Y..H.....K.@ 
+ 4f e6 4d 38 98 a9 70 bd fa c0 ca 94 63 b5 76 b5          O.M8..p.....c.v. 
+ 9c 98 a2 15 51 6c 6d a4 3e 3e c4 23 fd 74 85 43          ....Qlm.>>.#.t.C 
+ 2d 44 61 b1 c1 fc 46 f9 f2 bb 52 6c 9d ee 1d e0          -Da...F...Rl.... 
+ 1a 39 81 34 d1 f3 e5 72 ba aa 44 45 66 99 40 23          .9.4...r..DEf.@# 
+ 08 b1 28 32 cc 5d 11 5e 57 04 2e cf 81 20 16 47          ..(2.].^W.... .G 
+ c2 88 86 09 32 83 c0 2e 8f 75 b3 a9 35 72 a1 41          ....2....u..5r.A 
+ 29 82 50 e0 dc 80 d6 e1 40 d4 09 cb cb 55 12 f4          ).P.....@....U.. 
+ 01 a9 30 dd ad 44 69 9a 4e e8 df ef 84 e6 f2 cf          ..0..Di.N....... 
+ da f4 e1 91 0d 21 ac 97 1d b7 26 8a dd fe ad 32          .....!....&....2 
+ 9f 0f df 91 3b 3a cf f3 9e f7 79 14 94 26 b4 7e          ....;:....y..&.~ 
+ 88 b8 17 e7 2d 2a 98 8c c3 22 a5 3c cf e9 eb 29          ....-*...".<...) 
+ 89 f8 e8 d2 86 7b a5 c7 c3 40 35 12 84 d7 87 da          .....{...@5..... 
+ e7 2c 23 de 94 42 b2 e8 28 11 e1 6b d9 dd ae 33          .,#..B..(..k...3 
+ 65 0f 3f f0 fa 0c b8 3d 78 82 73 2d a9 e3 42 ac          e.?....=x.s-..B. 
+ a0 d0 9b 4c 52 ae 35 a9 64 f8 9f 9e 1a 46 68 f6          ...LR.5.d....Fh. 
+ 1d cb 3f 00 b8 6f 55 81 96 be 91 6d 10 90 66 c2          ..?..oU....m..f. 
+ e1 ab 3c ed 78 b7 1c ed e9 6b 08 a3 3a c1 73 0c          ..<.x....k..:.s. 
+ 33 8d 6d ef d0 7f 16 95 ca 56 a0 4a cc 33 d5 23          3.m.....V.J.3.# 
+ d2 cf 10 64 f5 50 b4 c9 ed be 72 27 6e 75 d1 b5          ...d.P....r'nu.. 
+ 33 4c b1 c4 ea 6d 6e 3c af 77 1a 7d 80 4c 98 5b          3L...mn<.w.}.L.[ 
+ 02 14 2e ab 2f 4e 86 58 ea 4e c8 cc f0 f6 2b a0          ..../N.X.N....+. 
+ 83 53 1b 8b c8 6b a0 16 ec df 5e 3c 0e 4a d0 88          .S...k....^<.J.. 
+ dc 47 00 1e ab a5 70 38 7a 1f c1 f5 32 81 63 1c          .G....p8z...2.c. 
+ 3a e6 f1 f9 e5 e8 41 c1 cb c2 0a 65 45 df 04 f0          :.....A....eE... 
+ fc 1c 71 cb 11 be 11 1e 4d 0f 13 c5 95 bb a8 4b          ..q.....M......K 
+ ad 35 a0 6d 14 64 e7 31 17 77 ee 8d fa 07 03 93          .5.m.d.1.w...... 
+ 4a 38 e2 d3 97 e0 fd db 3d 03 b6 a8 0a 24 ce f2          J8......=....$.. 
+ 63 70 aa                                                 cp. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 71 Bytes(Size of Packet)
+ |-Identification : 10929
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 51
+ |-UDP Checksum : 47222
+
+IP Header
+ 45 00 00 47 2a b1 00 00 80 11 00 00 c0 a8 01 69          E..G*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 33 b8 76                                  .....3.v 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0e 6b 30 44 69 14 99          ....Y.p...k0Di.. 
+ c4 3c 8e 1c 38 e9 3e af 88 c0 49 e7 10 d9 88 d6          .<..8.>...I..... 
+ 19 82 4d 3e fe b4 45 c3 97 36 98                         ..M>..E..6. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10930
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b2 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 0f 67 e7 4f 47 82 d5          ....Y.p...g.OG.. 
+ 6a bb 8c e5 e5 f9 18 2a 2a f7 6f 16 a0 eb df c8          j......**.o..... 
+ f0 af 83 1f 03 fe 89 21                                  .......! 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10931
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b3 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 10 2a 3c e4 d7 49 5c          ....Y.p...*<..I\ 
+ 8d 56 7e f6 4a db de 98 83 10 34 29 23 a5 7a 62          .V~.J.....4)#.zb 
+ 8a 0f 05 c7 ba c9 49 2f                                  ......I/ 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10932
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b4 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 11 95 4c c7 da e3 5b          ....Y.p....L...[ 
+ f7 8c 73 20 f9 1f 17 e6 c4 62 08 39 08 a8 6b ad          ..s .....b.9..k. 
+ 58 9f 28 13 34 65 39 25                                  X.(.4e9% 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10933
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b5 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 12 55 f8 86 0a 1c 74          ....Y.p...U....t 
+ 53 91 b8 b0 0b ee ee f9 6b 73 c3 4f f7 2f c2 48          S.......ks.O./.H 
+ c9 40 2d 40 16 af 14 24                                  .@-@...$ 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10934
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b6 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 13 4a 33 cf a7 fa 32          ....Y.p...J3...2 
+ 5c 13 bd 22 e9 a4 cf 0e 3b 9c 7f 63 97 94 c7 43          \.."....;.c...C 
+ aa 8e 28 2e 18 5f 08 e4                                  ..(.._.. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10935
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b7 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 14 52 bc e2 f0 7c 42          ....Y.p...R...|B 
+ 83 a6 67 23 a6 54 36 cd f4 7e 06 8a d0 09 fe 38          ..g#.T6..~.....8 
+ 70 5f 10 dd b2 4d ef ab                                  p_...M.. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10936
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b8 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 15 29 59 8d 92 82 fd          ....Y.p...)Y.... 
+ 78 f3 57 89 4c 80 79 47 ba b6 b0 21 89 46 39 4f          x.W.L.yG...!.F9O 
+ 2c 5d a6 f5 65 a0 e8 9b                                  ,]..e... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10937
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a b9 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 16 64 c9 a6 b5 11 63          ....Y.p...d....c 
+ a9 be 2d 71 30 30 df eb db 0b b4 b7 3f 9f 38 0c          ..-q00......?.8. 
+ 80 29 78 0e bf e8 c0 87                                  .)x..... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10938
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a ba 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 17 02 ba 57 54 d7 b0          ....Y.p.....WT.. 
+ af 7f 31 66 56 b0 f7 72 22 d5 39 a8 7c cf 68 81          .1fV..r".9.|.h. 
+ ec 8a 22 f7 45 2d bd 12                                  ..".E-.. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10939
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a bb 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 18 cc db 3c 68 ad 35          ....Y.p.....<h.5 
+ 65 f2 1b 58 59 e2 98 f3 74 02 fb 40 51 e4 25 e3          e..XY...t..@Q.%. 
+ 2d 26 b2 96 58 18 11 1a                                  -&..X... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10940
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a bc 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 19 2d 04 4d 59 5e eb          ....Y.p...-.MY^. 
+ 2c 8a cb de 59 75 e0 bb ab 67 bb cc 2c 1b e9 45          ,...Yu...g..,..E 
+ 64 d9 a9 90 96 68 d5 d1                                  d....h.. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 68 Bytes(Size of Packet)
+ |-Identification : 10941
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 48
+ |-UDP Checksum : 47219
+
+IP Header
+ 45 00 00 44 2a bd 00 00 80 11 00 00 c0 a8 01 69          E..D*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 30 b8 73                                  .....0.s 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1a a0 e2 4d 9f e1 48          ....Y.p.....M..H 
+ 9c b8 f2 73 97 3d 6a 7b d2 4a 58 58 22 35 c7 4f          ...s.=j{.JXX"5.O 
+ 0a ea 43 95 2f 97 25 fa                                  ..C./.%. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 71 Bytes(Size of Packet)
+ |-Identification : 10942
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 51
+ |-UDP Checksum : 47222
+
+IP Header
+ 45 00 00 47 2a be 00 00 80 11 00 00 c0 a8 01 69          E..G*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 33 b8 76                                  .....3.v 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1b 98 51 c1 11 8b 07          ....Y.p....Q.... 
+ 90 e0 46 ed b1 8f 15 32 23 9f 1c e3 3c 38 f6 d5          ..F....2#...<8.. 
+ e3 b9 12 a0 e3 8b d0 94 98 61 98                         .........a. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10943
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48529
+
+IP Header
+ 45 00 05 62 2a bf 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 4e bd 91                                  .....N.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1c 0c 05 94 1e 7e d6          ....Y.p.......~. 
+ e4 ff 38 63 79 a8 26 3c fe bf 19 d2 4d c4 02 3d          ..8cy.&<....M..= 
+ b0 bc cd 4d 77 1e 3c fd 16 6b 1e ab b6 da 81 1e          ...Mw.<..k...... 
+ cb 36 4a d2 6a 19 87 5f 43 df 54 2f 4c 75 c4 9f          .6J.j.._C.T/Lu.. 
+ 1c 55 b0 7d 9b ec ed 55 b7 6c ab 32 99 8a 1c 7c          .U.}...U.l.2...| 
+ e8 61 b7 9e bd df 00 fa e7 ef d0 2b 05 8a cc aa          .a.........+.... 
+ f2 fa d6 31 b7 1f 59 9c 28 fc a2 53 8f 1c 58 a9          ...1..Y.(..S..X. 
+ 90 40 c5 01 3e a4 2c e5 28 c1 d2 06 4b f9 05 96          .@..>.,.(...K... 
+ 52 aa 1f a4 ea 89 29 d3 78 39 d2 4e 99 a8 fd 2b          R.....).x9.N...+ 
+ c2 6c 2c d0 01 8b 51 f0 46 ce ef 63 ef 0d fb 60          .l,...Q.F..c...` 
+ 25 9f 2a c1 2f dc 7b 87 94 36 d5 3e fe cc 77 d8          %.*./.{..6.>..w. 
+ e5 3e 42 14 fa 6c ea c8 19 da d8 ad 5d b6 3f 41          .>B..l......].?A 
+ cf 32 46 a7 7b 1c 54 7e f7 05 81 2f 16 b3 ff fa          .2F.{.T~.../.... 
+ 48 73 d6 71 6c c9 42 b7 73 84 45 e8 c4 f0 f9 c3          Hs.ql.B.s.E..... 
+ 6a 51 97 38 2c 38 10 95 5e 56 06 e6 75 b0 0d 3a          jQ.8,8..^V..u..: 
+ da e3 b4 a9 1c 02 a4 95 e2 92 63 d6 69 b7 1e 06          ..........c.i... 
+ b5 24 9f d2 89 88 e0 71 a3 ec d5 d2 f6 ea 13 1c          .$.....q........ 
+ cb 00 bd ed 15 b4 1c a8 76 ca 55 84 8a df 6d 4d          ........v.U...mM 
+ 29 e0 f4 3e c6 61 f2 db f2 bc 89 b9 4e 0d c4 d6          )..>.a......N... 
+ 0f d1 b4 c3 b0 b2 f4 d6 49 d1 a7 09 6c c1 52 e5          ........I...l.R. 
+ 88 ac 23 6c 72 1e 0b 7f 2b 41 01 f6 53 af 49 7e          ..#lr..+A..S.I~ 
+ ca 70 11 a2 f4 ed 22 c5 1e b8 da 7d 68 c8 15 f3          .p...."....}h... 
+ 7e 86 17 85 17 ad 80 3b a5 ec fa b3 11 f8 1a 35          ~......;.......5 
+ 12 7d bf 72 22 ee 48 7a 7e b3 36 1e c8 46 c6 c7          .}.r".Hz~.6..F.. 
+ f2 d0 24 73 a7 b7 c3 da 4f 07 29 d4 d2 d8 b7 71          ..$s....O.)....q 
+ 50 2a 3c 89 f3 ae 3c 92 5e 8f 1d 50 ef 6c fb ef          P*<...<.^..P.l.. 
+ 85 f9 8f 9a b1 ac 91 d9 40 b1 c9 cd 50 56 33 82          ........@...PV3. 
+ 4f 32 92 fd d5 e3 56 8d 22 22 25 70 1d a5 b8 ee          O2....V.""%p.... 
+ ed 57 0c 65 f0 01 e9 93 8a f6 e6 81 f7 b7 d7 da          .W.e............ 
+ cc ca d5 0d 6e 28 a5 94 30 a7 49 87 90 1d 20 17          ....n(..0.I... . 
+ 5d ac 68 d3 f7 1b 24 66 c7 22 f3 2d 54 10 af af          ].h...$f.".-T... 
+ f6 a5 98 36 47 3a f1 31 26 68 3e 26 b5 02 36 65          ...6G:.1&h>&..6e 
+ 40 4c 11 db a8 18 b5 2e a2 50 19 b5 cc bf 47 dd          @L.......P....G. 
+ ee 4f 8f f3 34 24 3a 88 9c 7f 00 c0 a6 22 c8 12          .O..4$:.....".. 
+ 8f 42 b5 16 e9 70 57 80 59 fc 70 38 e8 58 e3 cd          .B...pW.Y.p8.X.. 
+ c0 96 c1 06 c1 35 4e f2 e5 f5 8a d4 35 d0 ef 09          .....5N.....5... 
+ 4c 32 48 fb 72 99 69 ba 0a 84 4a f0 0f 16 10 f9          L2H.r.i...J..... 
+ 0a cb 63 b5 a1 38 cd 88 40 56 d9 32 aa e9 b9 78          ..c..8..@V.2...x 
+ 40 d2 51 8c f6 a8 86 63 10 27 bb 55 1c 5b f5 04          @.Q....c.'.U.[.. 
+ bc c1 9a c4 9f 04 5f 54 79 b2 ea 55 53 87 b7 78          ......_Ty..US..x 
+ 5e 81 d8 44 74 5e 1f d6 b2 64 5e 52 38 7e f5 64          ^..Dt^...d^R8~.d 
+ 19 bc 8a 34 ac 19 22 18 c0 4d dc 39 41 2a 5b dd          ...4.."..M.9A*[. 
+ 94 3f 8c 7a ff 04 34 cf 5e fe 15 c0 a9 37 97 b2          .?.z..4.^....7.. 
+ 05 3d ab 68 01 c0 be d5 f0 bc d8 27 4b 88 b4 9a          .=.h.......'K... 
+ 56 45 35 cc 49 e1 85 49 8c a1 03 3d b9 95 4a 7b          VE5.I..I...=..J{ 
+ 12 72 58 40 ed 56 5c 99 b6 2e 05 f6 8f 81 44 4a          .rX@.V\.......DJ 
+ 76 4b 9c c0 42 58 e2 65 de 6c c6 a3 ca af 42 a4          vK..BX.e.l....B. 
+ 29 a9 c0 56 a0 19 a5 6e 53 08 12 bc 16 eb 32 03          )..V...nS.....2. 
+ 9f 91 61 05 54 54 7b e4 f6 f0 3e 20 17 e6 b3 21          ..a.TT{...> ...! 
+ c4 04 a9 f4 e5 c5 7f 6e 3c 5f b3 2c 25 6c a2 29          ......n<_.,%l.) 
+ 4c 35 3b 9e c3 af 1b 62 17 eb 03 22 a3 3f eb c9          L5;....b...".?.. 
+ 15 59 d7 5f db d3 96 50 13 36 a5 74 57 57 c2 d2          .Y._...P.6.tWW.. 
+ ce 75 d3 d0 16 63 34 46 ef 8b f9 ce ee 97 37 57          .u...c4F......7W 
+ 4b 87 1e 91 40 e0 31 2b 2e 1b ef 76 e0 a1 40 0b          K...@.1+...v..@. 
+ 29 36 62 17 7e 62 3d ac 84 79 60 f3 0a ce 93 c7          )6b.~b=..y`..... 
+ 50 20 9b 8d b4 c5 53 dd 5f 91 09 f1 37 59 3f 5c          P ....S._...7Y?\ 
+ a7 27 4a ef d6 6e 94 06 ec e4 1b 8d 17 f0 f7 39          .'J..n.........9 
+ f6 0e 60 46 72 50 80 d8 cc 22 60 03 a2 57 ea 6c          ..`FrP..."`..W.l 
+ 76 32 e6 31 2d 86 c8 d0 4f c4 bf 74 79 85 9a 83          v2.1-...O..ty... 
+ 8f 0c eb e1 14 aa af 8f 8d 8a 1d e6 75 b1 68 70          ............u.hp 
+ b9 06 12 8f 62 50 29 b6 6b 44 d5 7c 88 b9 e3 f2          ....bP).kD.|.... 
+ b5 82 a3 d7 c9 44 ad d3 77 c9 8b 53 95 50 48 16          .....D..w..S.PH. 
+ fb bd 0c a9 46 86 ee 19 be 25 bf 46 d3 47 a8 75          ....F....%.F.G.u 
+ c3 56 fb c3 02 1f 82 a5 9d 14 16 34 f1 f7 60 32          .V.........4..`2 
+ b9 47 47 6c 9a 63 17 65 46 09 f5 fa fd 70 c6 99          .GGl.c.eF....p.. 
+ 31 ba 04 03 6c a0 53 69 49 8f 9a 7d 91 01 14 2c          1...l.SiI..}..., 
+ 3f 86 ce 73 62 21 62 9f bf c0 40 4d 6a ce a1 25          ?..sb!b...@Mj..% 
+ 89 1a 17 bc f2 3e 74 38 8e cf ef c3 54 45 6b 68          .....>t8....TEkh 
+ 43 9d 85 ce fd 00 45 75 56 84 63 51 1a 60 6e 64          C.....EuV.cQ.`nd 
+ d6 57 1c 7c 35 f8 51 88 39 96 55 2f 95 40 32 51          .W.|5.Q.9.U/.@2Q 
+ 17 18 fc aa e3 d5 e4 9c 63 94 0b 57 7d 9b 14 b5          ........c..W}... 
+ 92 cd ff e8 9b f0 ec 3b 7e 20 4e 6e 36 06 e6 5d          .......;~ Nn6..] 
+ b4 fd c0 68 7e 70 d3 0f f1 e1 fa db 1d cc f4 9d          ...h~p.......... 
+ 7d 4b 48 db a3 32 1e 82 83 ae c8 1f 98 a0 31 2f          }KH..2........1/ 
+ 72 d0 06 47 a5 00 76 34 dd 53 b9 a1 7e 0a f3 66          r..G..v4.S..~..f 
+ 44 bd 65 a6 c6 25 77 34 be 7f 66 21 05 47 15 67          D.e..%w4.f!.G.g 
+ 6f 76 c7 5a 85 8a f6 9f a5 0d 20 f8 22 1a 92 14          ov.Z...... ."... 
+ ee c3 4f 47 49 db 5d 64 5a 07 4f f6 0a 83 8f d7          ..OGI.]dZ.O..... 
+ 69 8b c0 eb 78 46 8b 38 dc b3 8d 46 80 c8 c0 c2          i...xF.8...F.... 
+ 83 b6 db c5 d6 54 13 a4 d4 bd aa 0f 21 b8 12 a3          .....T......!... 
+ 06 b4 08 b3 4e 49 7f 01 2f 4f dd 3d b2 94 83 20          ....NI./O.=...  
+ be fb 79 c7 01 56 32 76 48 76 f2 4a 9f 07 b2 42          ..y..V2vHv.J...B 
+ 87 d9 94 43 91 93 22 12 de b6 24 f7 02 8e c1 26          ...C.."...$....& 
+ 2b 34 19 18 b3 5d 58 5c 04 bc cf 0b 7d 5b 52 bc          +4...]X\....}[R. 
+ 3e fd 62 37 2a 02                                        >.b7*. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 370 Bytes(Size of Packet)
+ |-Identification : 10944
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 350
+ |-UDP Checksum : 47521
+
+IP Header
+ 45 00 01 72 2a c0 00 00 80 11 00 00 c0 a8 01 69          E..r*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 01 5e b9 a1                                  .....^.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1d d1 2b c7 3e 65 ff          ....Y.p....+.>e. 
+ 6b 7d de 48 74 55 ba e6 51 91 c1 e4 20 0c 41 29          k}.HtU..Q... .A) 
+ bf bb 21 65 50 cc 74 53 aa 99 94 55 2a 11 b2 4b          ..!eP.tS...U*..K 
+ 59 ac ca ae 9b 8f b2 c6 36 33 d9 6b 29 82 5e 87          Y.......63.k).^. 
+ 71 c5 04 87 c8 a8 c4 ac a8 2f 8d f1 72 f5 af c0          q......../..r... 
+ b4 0c 3e d2 85 4e 13 d9 62 ae 69 76 e6 ec 2b 65          ..>..N..b.iv..+e 
+ d2 54 f2 49 83 07 31 4c 30 bd 2d 63 aa 9f b7 a2          .T.I..1L0.-c.... 
+ d8 1f f5 93 20 8d f6 e0 dd 3a a9 5e 9d 18 c8 9b          .... ....:.^.... 
+ dd 9e 54 69 c8 45 c2 2a a6 27 09 e9 74 04 b8 01          ..Ti.E.*.'..t... 
+ 43 55 91 39 29 66 29 49 b8 de bc 73 7e dc c4 9f          CU.9)f)I...s~... 
+ 42 13 53 1b 49 26 bc a4 10 53 8b a8 cb 5d 14 9a          B.S.I&...S...].. 
+ 6f 56 f3 d0 b2 ee 19 dd da 4c e8 a0 c6 d0 31 c8          oV.......L....1. 
+ c6 10 30 07 37 24 e1 50 55 8e 66 2c fe 06 c0 30          ..0.7$.PU.f,...0 
+ 53 ed 0f 9d c7 ff 0f d9 b9 3c 4d d0 38 45 62 0f          S........<M.8Eb. 
+ 72 f2 a2 21 97 b4 02 da cc c3 2e cb 9a df c6 99          r..!............ 
+ 71 c3 40 85 49 7e 02 57 8f c2 21 70 11 18 16 39          q.@.I~.W..!p...9 
+ d8 6c a9 92 07 4f b9 99 bf a5 87 2f 16 c9 0d 5f          .l...O...../..._ 
+ 79 aa 19 d5 12 48 ad 23 e3 03 f1 e8 2b 4b 7e d2          y....H.#....+K~. 
+ 30 94 5c bf 63 42 48 bd ea 60 13 93 79 45 24 08          0.\.cBH..`..yE$. 
+ 6f eb 21 85 a5 5b 8f 18 7b 40 e0 a8 1b b0 e5 21          o.!..[..{@.....! 
+ 5c bf 3c a2 aa 55 81 94 b9 0a 09 03 8a 8a ea 08          \.<..U.......... 
+ 91 17 a4 7a ea 77                                        ...z.w 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 95 Bytes(Size of Packet)
+ |-Identification : 10945
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 75
+ |-UDP Checksum : 47246
+
+IP Header
+ 45 00 00 5f 2a c1 00 00 80 11 00 00 c0 a8 01 69          E.._*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 4b b8 8e                                  .....K.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1e 4c 81 3c 76 2a 8e          ....Y.p...L.<v*. 
+ 44 e2 c4 be 54 ec 96 8e 18 d9 07 b9 8a 97 5b a4          D...T.........[. 
+ de 7e ef 04 36 74 85 02 ff bd d3 78 f1 26 87 69          .~..6t.....x.&.i 
+ 47 95 fd ce 62 56 c2 c7 19 51 23 d1 ed b6 76 57          G...bV...Q#...vW 
+ e2 6d f3                                                 .m. 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 1378 Bytes(Size of Packet)
+ |-Identification : 10946
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 1358
+ |-UDP Checksum : 48529
+
+IP Header
+ 45 00 05 62 2a c2 00 00 80 11 00 00 c0 a8 01 69          E..b*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 05 4e bd 91                                  .....N.. 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 1f 33 98 17 d8 40 e5          ....Y.p...3...@. 
+ 84 06 05 fe 0a 48 c9 f3 1a f5 fa cf c0 9f 96 c8          .....H.......... 
+ 91 51 17 cf 4a 73 a2 49 28 10 7e e4 3b 05 c0 da          .Q..Js.I(.~.;... 
+ 1e 18 5a 86 84 1a 11 75 98 62 75 60 f4 ae d0 9c          ..Z....u.bu`.... 
+ cc dc 7c 85 f3 d3 ee 35 81 0b 5b 22 38 65 ba 90          ..|....5..["8e.. 
+ f5 60 e3 06 ae 2b 30 96 bb ba 3d 51 8a c5 01 fe          .`...+0...=Q.... 
+ d3 d7 3b d1 b4 59 9d bd 28 4a 59 76 e1 28 b7 96          ..;..Y..(JYv.(.. 
+ fd f9 07 67 7a 58 7a 3f 15 a7 1c 38 b3 db 2c 71          ...gzXz?...8..,q 
+ 8d 4d 74 36 d6 7c 1b af 2f 01 83 2c f4 e7 1c 46          .Mt6.|../..,...F 
+ 75 c0 84 7f fe c1 6f 7b 3e 89 3a ca 86 46 db 8f          u....o{>.:..F.. 
+ 4e 80 db 8e f2 0e 8d 47 3a e4 1b 49 ba 50 c6 74          N......G:..I.P.t 
+ 40 5e d8 06 de 78 be 61 76 52 fe 7a ba 91 55 91          @^...x.avR.z..U. 
+ b8 62 81 39 07 41 ee 8a ea 5b 30 b8 60 ad be f3          .b.9.A...[0.`... 
+ 85 07 d9 8a 78 1d cb 5b 31 8d 0a d3 22 c5 d2 74          ....x..[1..."..t 
+ fe 86 fb 53 0b d0 7d 6e f5 c9 a1 fe 5f ad 57 b6          ...S..}n...._.W. 
+ 17 0d 9e aa 05 ab 1c 6c e7 70 e2 eb 5e 39 99 3d          .......l.p..^9.= 
+ df 97 82 93 37 ca 5b 95 16 2d 95 76 00 0f 23 20          ....7.[..-.v..#  
+ b5 de d4 33 79 4b 5b eb e8 ce b5 63 3d 84 f8 5b          ...3yK[....c=..[ 
+ 1d b2 f1 dd 0b d5 20 75 8e 6f 5b 3a 14 1d 8f 09          ...... u.o[:.... 
+ 8a f0 1a fd 92 30 8a ed fd e0 e7 36 ed 2e 1b 40          .....0.....6...@ 
+ e3 a0 05 ba dd d0 5f 7f c7 e6 fe ba 1a 0c 2b d9          ......_......+. 
+ a3 6e 44 27 cf 42 de 31 5e 2c e4 7a 28 c0 e8 51          .nD'.B.1^,.z(..Q 
+ d3 59 15 4a a1 62 d6 d8 68 ae 76 30 fd 58 83 bf          .Y.J.b..h.v0.X.. 
+ 06 60 e9 71 73 b5 0d 67 26 21 09 df e9 d1 0d e1          .`.qs..g&!...... 
+ 18 af 8e 4e 22 33 3a 1a 44 04 4b 18 d0 1e 8e 85          ...N"3:.D.K..... 
+ 33 91 e1 96 72 5a 1c 65 5b 92 ed 0a 81 3b bb 44          3...rZ.e[....;.D 
+ 62 4f 6a c3 c4 15 fb cd da 7b 13 14 db 4b 42 f4          bOj......{...KB. 
+ 0c 9e 3e c2 14 e5 43 a6 e3 24 c0 d8 45 09 5e c0          ..>...C..$..E.^. 
+ 3d c8 ad c5 45 72 03 73 35 a9 cc a0 2f 0c 53 f5          =...Er.s5.../.S. 
+ 78 31 78 b4 d6 02 b2 cc dd c3 95 50 9d 01 a9 a8          x1x........P.... 
+ d2 1a e0 73 4c 1c b3 c8 38 5c 5f 7b fa a1 bc 1f          ...sL...8\_{.... 
+ f0 4f e9 bd a5 f7 91 13 b5 2f de 9a 1a 21 0a 51          .O......./...!.Q 
+ 7a b2 75 ce bf 33 e0 12 a5 32 a0 4f ab eb df 6c          z.u..3...2.O...l 
+ b7 5d c9 bd cc 63 0c ba a6 0b 64 80 68 f4 c0 a1          .]...c....d.h... 
+ 10 81 67 f0 ab a3 09 e0 6c b4 48 4f 57 f7 55 61          ..g.....l.HOW.Ua 
+ 89 07 8f 19 d3 94 ec 31 46 fd 40 e8 b0 89 ea d0          .......1F.@..... 
+ b3 80 00 9b af da c3 f9 a5 86 da 8a c8 2f 93 f6          ............./.. 
+ 07 35 25 8c 14 10 91 9e 2c 4a 34 af 38 80 c9 6f          .5%.....,J4.8..o 
+ 42 ab 0f 48 f6 8b 5c 52 84 47 cf ff 90 44 41 93          B..H..\R.G...DA. 
+ e5 c7 02 de 49 95 9c 46 68 bd d9 d9 4e 8c 56 93          ....I..Fh...N.V. 
+ 1d 9b ad d1 65 47 bd 4d 3f da c2 6e 1f 55 f8 2a          ....eG.M?..n.U.* 
+ e9 ef 84 29 d1 8a 03 80 38 73 2b 9d 0d a2 86 72          ...)....8s+....r 
+ 9c d1 f8 a5 98 5e 46 3e 97 ef f2 76 5a 58 60 fc          .....^F>...vZX`. 
+ 6c 82 38 57 40 c5 0c e9 6e 6b a4 d5 88 b1 89 28          l.8W@...nk.....( 
+ cc c8 b6 f7 f1 60 35 21 35 49 56 63 86 76 fd 39          .....`5!5IVc.v.9 
+ 8a 66 3f d2 3b d5 3c 22 05 8f 84 e1 70 b8 72 eb          .f?.;.<"....p.r. 
+ 02 54 32 86 72 e9 70 18 93 f6 0d 4f a0 b0 09 23          .T2.r.p....O...# 
+ 48 1e 11 3a b1 c1 48 c9 4c 96 a8 33 d0 c6 2c 74          H..:..H.L..3..,t 
+ 87 36 ca 88 bb 37 84 ae 6c f0 0f d6 7d 55 04 09          .6...7..l...}U.. 
+ 42 46 d3 25 99 56 21 86 04 89 62 f5 b4 a8 ab 72          BF.%.V!...b....r 
+ c3 a8 5d a7 6c 31 b0 69 5a f0 8b 43 1f 32 81 a0          ..].l1.iZ..C.2.. 
+ d4 38 18 ea 4e aa 78 a9 f2 69 86 5a 32 cf 84 39          .8..N.x..i.Z2..9 
+ 60 c7 9b 63 bf bb 90 1a 42 89 9e f6 67 e7 1d 1a          `..c....B...g... 
+ 29 00 f1 17 dd 98 53 6c c1 c6 b6 42 4a 18 ee 4d          ).....Sl...BJ..M 
+ c7 31 61 0c f9 3e 34 59 5b cc 2a 9e a9 f2 5b 95          .1a..>4Y[.*...[. 
+ 65 22 4a c7 40 c1 95 60 1f 18 5a f9 c7 1e 64 78          e"J.@..`..Z...dx 
+ 3b 98 8f 01 12 e9 c5 9a c0 4b c2 34 ae 07 d2 0b          ;........K.4.... 
+ 6f fd 43 2e 93 01 9d 8f be c9 b1 e0 df a3 58 31          o.C...........X1 
+ 81 e3 46 bc 5e 55 8f 51 ba bb 64 cc 24 3c 40 d0          ..F.^U.Q..d.$<@. 
+ 4a 73 74 57 49 16 41 20 bd 05 71 58 fc e7 c6 36          JstWI.A ..qX...6 
+ 25 c7 48 4a b5 ea 98 21 e6 ba c2 71 1e 2b aa 99          %.HJ...!...q.+.. 
+ 63 f8 7c 29 86 f5 f9 20 a2 1c 3e 48 75 61 a6 dd          c.|)... ..>Hua.. 
+ f7 92 b6 60 9c d4 e2 17 28 c6 9a 01 98 ee 27 2a          ...`....(.....'* 
+ af b1 15 7e 1d 4a c3 97 b3 89 9c b3 4a 32 e4 6e          ...~.J......J2.n 
+ b9 4d cd 7c ac 20 ea 6c 2e c3 ee ee e4 f8 fa f3          .M.|. .l........ 
+ aa b7 0e 06 dc d1 64 1d 3f e0 d0 bd 79 37 84 96          ......d.?...y7.. 
+ 06 6c 23 b5 ad 3d 04 65 8c 57 b8 ad be 1e 21 69          .l#..=.e.W....!i 
+ d7 fd 5c 58 c1 56 87 8e 49 c1 e2 4b 17 9b fb c2          ..\X.V..I..K.... 
+ 32 42 1b a7 8b 58 a4 e4 9a ec 2d 7c 55 04 14 28          2B...X....-|U..( 
+ 91 40 2d e2 f5 bc de b9 d0 0b 5e 67 31 e4 52 b7          .@-.......^g1.R. 
+ eb 8f 2f 79 20 62 60 e1 3a 4e 7b db 6e 38 1b 0b          ../y b`.:N{.n8.. 
+ 0b 0d 3f c1 e3 77 eb a5 c8 45 f7 a7 0c 44 cd 01          ..?..w...E...D.. 
+ d0 ae ff d8 f6 0e 6b 03 61 44 49 3b ef 34 41 40          ......k.aDI;.4A@ 
+ 42 ee ff b5 6a 5c eb 54 d1 8f 70 81 51 84 85 b2          B...j\.T..p.Q... 
+ 6f 0c c8 c4 ff 30 39 95 45 19 16 19 7d 15 d2 09          o....09.E...}... 
+ c8 a1 b6 9d 99 a6 a2 5f 17 fe 57 34 c5 6f ef 58          ......._..W4.o.X 
+ 4c b6 3a 0e 86 4a 76 e9 c4 29 11 5e f5 8e 03 4d          L.:..Jv..).^...M 
+ e8 dc 61 82 89 62 f2 73 13 9e 6e be ed 83 a4 30          ..a..b.s..n....0 
+ 7b fb ea 35 15 68 1e fe ce 67 72 47 47 2d d7 20          {..5.h...grGG-.  
+ 06 f3 21 22 a3 72 d7 a0 eb 95 c2 9e fe e5 54 a4          ..!".r........T. 
+ 45 08 f4 ae 5b 05 26 1f a5 92 44 d5 35 45 ec ae          E...[.&...D.5E.. 
+ 92 49 28 8c ae c2 03 b5 2d 78 93 55 f0 d4 84 fc          .I(.....-x.U.... 
+ 1d 5c 79 e2 2e 38 28 b3 6b ab 33 28 3f c9 3f 23          .\y..8(.k.3(?.?# 
+ 8c 76 fd 11 63 49 5d 75 c9 6e 46 c3 85 1f 2e 04          .v..cI]u.nF..... 
+ e6 f8 21 c1 97 8d                                        ..!... 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 430 Bytes(Size of Packet)
+ |-Identification : 10947
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 410
+ |-UDP Checksum : 47581
+
+IP Header
+ 45 00 01 ae 2a c3 00 00 80 11 00 00 c0 a8 01 69          E...*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 01 9a b9 dd                                  ........ 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 20 7c 86 de b7 94 c5          ....Y.p.. |..... 
+ 54 42 c8 7f ae 9d 2a b4 70 f3 3c dc c7 11 48 ba          TB...*.p.<...H. 
+ 3c 36 85 97 fa 8c ed c1 92 23 52 e0 a3 7d 7e 16          <6.......#R..}~. 
+ 61 af 9c 95 83 50 a1 a5 db 8f ef 9a 86 af a3 bd          a....P.......... 
+ 86 d3 37 43 d9 7c 42 36 50 68 06 fd 7d 5a de 32          ..7C.|B6Ph..}Z.2 
+ 23 1d 85 54 af f2 e9 5b 15 6c 7b d3 7d 64 5f c0          #..T...[.l{.}d_. 
+ 2c 96 9b c2 02 3c bc be 78 51 64 a3 f1 60 a0 90          ,....<..xQd..`.. 
+ bd 1a 97 ae f9 3e ba 5f 76 4f 5b 0e 35 36 2b 37          .....>._vO[.56+7 
+ 32 d0 66 e2 da 30 03 94 d9 0d 7a 0a a6 ec 13 bb          2.f..0....z..... 
+ 85 73 83 9f 59 07 65 fc 7d 42 5d 8c d6 b8 6c c9          .s..Y.e.}B]...l. 
+ 55 13 75 d9 ba 44 a9 2e 66 92 c2 97 a2 89 04 09          U.u..D..f....... 
+ 3c 63 4b 97 4c c2 a6 28 84 2a fd 11 e4 c6 4d af          <cK.L..(.*....M. 
+ 5e f6 b2 a7 e6 66 92 4f f7 76 ac 3f 41 58 1b 8c          ^....f.O.v.?AX.. 
+ fa 70 a1 ee 84 4f 60 15 ed a6 87 60 8d 13 59 5d          .p...O`....`..Y] 
+ 96 3f bd 7b ba 69 07 ff d9 5e a6 c7 62 51 bc 52          .?.{.i...^..bQ.R 
+ 66 0b 0f a0 b3 54 1f 87 f0 4c c8 b5 e1 69 8c b8          f....T...L...i.. 
+ ed a7 fa c5 96 36 74 5f e4 df 98 10 04 5e 50 d4          .....6t_.....^P. 
+ 22 56 14 67 ce 28 c8 81 37 58 30 38 af 44 7d 8d          "V.g.(..7X08.D}. 
+ a8 76 58 8c ae 49 24 b2 a6 66 1b 55 7a 09 cd e3          .vX..I$..f.Uz... 
+ 09 69 f9 bb f8 9d 79 b5 0f 63 e0 c6 fc aa 19 f4          .i....y..c...... 
+ 6a 76 98 79 d1 12 1e d0 f6 f9 91 39 6a b7 df 83          jv.y.......9j... 
+ cc 49 69 3b 7b 0b 1b a3 7f b2 96 58 99 ca 1a b2          .Ii;{.....X.... 
+ 22 55 7f 45 48 32 ec f7 80 c5 e2 0b 6f 71 90 f8          "UEH2......oq.. 
+ 4a 66 4a f5 6c e0 22 e0 3a 69 c0 39 92 e5 98 85          JfJ.l.".:i.9.... 
+ 14 07 f1 2a 2b 8d 94 ec 95 2b 04 19 1d 8b a5 0a          ...*+....+...... 
+ ba 78                                                    .x 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 70 Bytes(Size of Packet)
+ |-Identification : 10948
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 50
+ |-UDP Checksum : 47221
+
+IP Header
+ 45 00 00 46 2a c4 00 00 80 11 00 00 c0 a8 01 69          E..F*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 32 b8 75                                  .....2.u 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 21 28 35 04 29 e5 e5          ....Y.p..!(5.).. 
+ d4 ff e3 eb cc 8a e3 8f d3 e1 a6 8e 08 e0 cb 50          ...............P 
+ 21 15 b9 4c 34 ac 6d 92 fc 33                            !..L4.m..3 
+
+
+###########################################################
+
+***********************UDP Packet*************************
+
+IP Header
+ |-IP Version : 4
+ |-IP Header Length : 5 DWORDS or 20 Bytes
+ |-Type Of Service : 0
+ |-IP Total Length : 71 Bytes(Size of Packet)
+ |-Identification : 10949
+ |-Reserved ZERO Field : 0
+ |-Dont Fragment Field : 0
+ |-More Fragment Field : 0
+ |-TTL : 128
+ |-Protocol : 17
+ |-Checksum : 0
+ |-Source IP : 192.168.1.105
+ |-Destination IP : 173.194.72.94
+
+UDP Header
+ |-Source Port : 58608
+ |-Destination Port : 443
+ |-UDP Length : 51
+ |-UDP Checksum : 47222
+
+IP Header
+ 45 00 00 47 2a c5 00 00 80 11 00 00 c0 a8 01 69          E..G*..........i 
+ ad c2 48 5e                                              ..H^ 
+
+UDP Header
+ e4 f0 01 bb 00 33 b8 76                                  .....3.v 
+
+Data Payload
+ 0c 82 af f1 59 9d 70 0d b2 22 85 0b 83 76 a3 b4          ....Y.p.."...v.. 
+ a8 f1 a1 1b ff e7 c7 6c cc 7c 96 91 02 74 6d a2          .......l.|...tm. 
+ e5 ef f6 51 f2 08 48 c5 6e 39 6b                         ...Q..H.n9k 
+
+
+###########################################################
